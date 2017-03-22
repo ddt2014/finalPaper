@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+
+\bibitem{1}
+Wilburn B, Joshi N, Vaish V, et~al.
+\newblock High performance imaging using large camera arrays.
+\newblock  ACM Transactions on Graphics (TOG), volume~24. ACM, 2005.
+\newblock  765--776
+\thudot
+
+\bibitem{2}
+顾西存, 黄颖, et~al.
+\newblock 基于代数多重网格的图像拼接中动态目标的检测
+  dynamic object detection in image mosaic based on algebraic multigrid.
+\newblock Computer Science and Application, 2016, 6(02):94
+\thudot
+
+\end{thebibliography}
