@@ -61,6 +61,44 @@ Vaish V, Garg G, Talvala E~V, et~al.
 \newblock  129--129
 \thudot
 
+\bibitem{parziale2006surround}
+Parziale G, Diaz-Santana E, Hauke R.
+\newblock The surround imagertm: A multi-camera touchless device to acquire 3d
+  rolled-equivalent fingerprints.
+\newblock  International Conference on Biometrics. Springer, 2006.
+\newblock  244--250
+\thudot
+
+\bibitem{taj2009multi}
+Taj M, Cavallaro A.
+\newblock Multi-camera track-before-detect.
+\newblock  Distributed Smart Cameras, 2009. ICDSC 2009. Third ACM/IEEE
+  International Conference on. IEEE, 2009.
+\newblock  1--6
+\thudot
+
+\bibitem{bellotto2009distributed}
+Bellotto N, Sommerlade E, Benfold B, et~al.
+\newblock A distributed camera system for multi-resolution surveillance.
+\newblock  Distributed Smart Cameras, 2009. ICDSC 2009. Third ACM/IEEE
+  International Conference on. IEEE, 2009.
+\newblock  1--8
+\thudot
+
+\bibitem{fiore2008multi}
+Fiore L, Fehr D, Bodor R, et~al.
+\newblock Multi-camera human activity monitoring.
+\newblock Journal of Intelligent and Robotic Systems, 2008, 52(1):5--43
+\thudot
+
+\bibitem{kettnaker1999bayesian}
+Kettnaker V, Zabih R.
+\newblock Bayesian multi-camera surveillance.
+\newblock  Computer Vision and Pattern Recognition, 1999. IEEE Computer Society
+  Conference on., volume~2. IEEE, 1999.
+\newblock  253--259
+\thudot
+
 \bibitem{9}
 Griffiths A~D, Coates A~J, Jaumann R, et~al.
 \newblock Context for the esa exomars rover: the panoramic camera (pancam)
@@ -73,6 +111,20 @@ Bell J, Squyres S, Herkenhoff K, et~al.
 \newblock Mars exploration rover athena panoramic camera (pancam)
   investigation.
 \newblock Journal of Geophysical Research: Planets, 2003, 108(E12)
+\thudot
+
+\bibitem{iphone}
+{Apple Inc}.
+\newblock iphone 7 - apple[EB/OL].
+\newblock [2017-03-23].
+\newblock  {\url{http://www.apple.com/iphone-7/}}
+\thudot
+
+\bibitem{华为}
+{华为技术有限公司}.
+\newblock Huawei p9[EB/OL].
+\newblock [2017-03-23].
+\newblock  {\url{http://consumer.huawei.com/cn/mobile-phones/p9/index.html}}
 \thudot
 
 \bibitem{11}
@@ -89,6 +141,26 @@ Kim K, Davis L~S.
   plane using search-guided particle filtering.
 \newblock  European Conference on Computer Vision. Springer, 2006.
 \newblock  98--109
+\thudot
+
+\bibitem{zha2013detecting}
+Zha Z~J, Zhang H, Wang M, et~al.
+\newblock Detecting group activities with multi-camera context.
+\newblock IEEE Transactions on Circuits and Systems for Video Technology, 2013,
+  23(5):856--869
+\thudot
+
+\bibitem{saini2014w3}
+Saini M, Atrey P~K, Mehrotra S, et~al.
+\newblock W3-privacy: understanding what, when, and where inference channels in
+  multi-camera surveillance video.
+\newblock Multimedia Tools and Applications, 2014, 68(1):135--158
+\thudot
+
+\bibitem{wang2013intelligent}
+Wang X.
+\newblock Intelligent multi-camera video surveillance: A review.
+\newblock Pattern recognition letters, 2013, 34(1):3--19
 \thudot
 
 \bibitem{13}
@@ -117,6 +189,29 @@ Kurillo G, Li Z, Bajcsy R.
 \newblock  1--9
 \thudot
 
+\bibitem{theriault2014protocol}
+Theriault D~H, Fuller N~W, Jackson B~E, et~al.
+\newblock A protocol and calibration method for accurate multi-camera field
+  videography.
+\newblock Journal of Experimental Biology, 2014. jeb--100529
+\thudot
+
+\bibitem{knorr2013online}
+Knorr M, Niehsen W, Stiller C.
+\newblock Online extrinsic multi-camera calibration using ground plane induced
+  homographies.
+\newblock  Intelligent Vehicles Symposium (IV), 2013 IEEE. IEEE, 2013.
+\newblock  236--241
+\thudot
+
+\bibitem{heng2014infrastructure}
+Heng L, B{\"u}rki M, Lee G~H, et~al.
+\newblock Infrastructure-based calibration of a multi-camera rig.
+\newblock  Robotics and Automation (ICRA), 2014 IEEE International Conference
+  on. IEEE, 2014.
+\newblock  4912--4919
+\thudot
+
 \bibitem{16}
 Zhang H, Zeng W, Chen X.
 \newblock Foreground based borderline adjusting for real time multi-camera
@@ -124,6 +219,26 @@ Zhang H, Zeng W, Chen X.
 \newblock  Image and Graphics, 2009. ICIG'09. Fifth International Conference
   on. IEEE, 2009.
 \newblock  355--360
+\thudot
+
+\bibitem{malesa2014multi}
+Malesa M, Malowany K, Kujawinska M.
+\newblock Multi-camera dic system with spatial data stitching procedure for
+  measurements of engineering objects.
+\newblock Photonics Letters of Poland, 2014, 6(4):157--159
+\thudot
+
+\bibitem{zhong2014color}
+Zhong Z, Peng Y, Li X, et~al.
+\newblock Color balance and seam-line removal for multi-camera stitching image.
+\newblock Journal of Next Generation Information Technology, 2014, 5(2):47
+\thudot
+
+\bibitem{lu2016photometric}
+Lu Y, Wang K, Fan G.
+\newblock Photometric calibration and image stitching for a large field of view
+  multi-camera system.
+\newblock Sensors, 2016, 16(4):516
 \thudot
 
 \bibitem{17}
@@ -155,6 +270,144 @@ Zhang H, Zeng W, Chen X.
 国蓉, 焦旸, 高明, et~al.
 \newblock 具有外同步功能的 ccd 视频监控摄像机硬件设计.
 \newblock 西安工业大学学报, 2014, 34(4):268--273
+\thudot
+
+\bibitem{Prochazka}
+Prochazka A, Kubicek M, Pavelka A.
+\newblock Multicamera systems in the moving body recognition.
+\newblock  Multimedia Signal Processing and Communications, 48th International
+  Symposium ELMAR-2006 focused on. IEEE, 2006.
+\newblock  45--48
+\thudot
+
+\bibitem{Litos}
+Litos G, Zabulis X, Triantafyllidis G.
+\newblock Synchronous image acquisition based on network synchronization.
+\newblock  Computer Vision and Pattern Recognition Workshop, 2006. CVPRW'06.
+  Conference on. IEEE, 2006.
+\newblock  167--167
+\thudot
+
+\bibitem{Zitnick}
+Zitnick C~L, Kang S~B, Uyttendaele M, et~al.
+\newblock High-quality video view interpolation using a layered representation.
+\newblock  ACM Transactions on Graphics (TOG), volume~23. ACM, 2004.
+\newblock  600--608
+\thudot
+
+\bibitem{黄芳}
+黄芳, 崔希民, 何建设.
+\newblock 基于gps时间同步的分布式数据采集与监测系统研究.
+\newblock  矿山测量, 2004.
+\newblock  15--17
+\thudot
+
+\bibitem{刘团结}
+刘团结, 童庆禧, 郑兰芬.
+\newblock 一种航空多光谱数字相机系统的设计与实现.
+\newblock  测绘通报, 2003.
+\newblock  7--10
+\thudot
+
+\bibitem{mills2010network}
+Mills D, Martin J, Burbank J, et~al.
+\newblock Network time protocol version 4: Protocol and algorithms
+  specification.
+\newblock Technical report, 2010
+\thudot
+
+\bibitem{correll2005design}
+Correll K, Barendt N, Branicky M.
+\newblock Design considerations for software only implementations of the ieee
+  1588 precision time protocol.
+\newblock  Conference on IEEE, volume 1588, 2005.
+\newblock  11--15
+\thudot
+
+\bibitem{svoboda2002viroom}
+Svoboda T, Hug H, Van~Gool L.
+\newblock Viroom—low cost synchronized multicamera system and its
+  self-calibration.
+\newblock  Joint Pattern Recognition Symposium. Springer, 2002.
+\newblock  515--522
+\thudot
+
+\bibitem{rai2003cost}
+Rai P~K, Tiwari K, Guha P, et~al.
+\newblock A cost-effective multiple camera vision system using firewire cameras
+  and software synchronization.
+\newblock  Proceedings of the 10th International Conference on High Performance
+  Computing, Hyderabad, India, volume 1720, 2003
+\thudot
+
+\bibitem{ahrenberg2004mobile}
+Ahrenberg L, Ihrke I, Magnor M.
+\newblock A mobile system for multi-video recording.
+\newblock  1st European Conference on Visual Media Production (CVMP), 2004.
+\newblock  127--132
+\thudot
+
+\bibitem{cho2016time}
+Cho H.
+\newblock Time synchronization for multi-hop surveillance camera systems.
+\newblock  Theory and Applications of Smart Cameras. Springer, 2016: 283--305
+\thudot
+
+\bibitem{shrestha2006synchronization}
+Shrestha P, Weda H, Barbieri M, et~al.
+\newblock Synchronization of multiple video recordings based on still camera
+  flashes.
+\newblock  Proceedings of the 14th ACM international conference on Multimedia.
+  ACM, 2006.
+\newblock  137--140
+\thudot
+
+\bibitem{shrstha2007synchronization}
+Shrstha P, Barbieri M, Weda H.
+\newblock Synchronization of multi-camera video recordings based on audio.
+\newblock  Proceedings of the 15th ACM international conference on Multimedia.
+  ACM, 2007.
+\newblock  545--548
+\thudot
+
+\bibitem{yan2004video}
+Yan J, Pollefeys M.
+\newblock Video synchronization via space-time interest point distribution.
+\newblock  Advanced Concepts for Intelligent Vision Systems, volume~1, 2004.
+\newblock  12--21
+\thudot
+
+\bibitem{macmillan2015auto}
+Macmillan T, Campbell S~P, Newman D~A, et~al.
+\newblock Auto-alignment of image sensors in a multi-camera system, March~24,
+  2015.
+\newblock US Patent 8,988,509
+\thudot
+
+\bibitem{schaffner2016vehicle}
+Schaffner M.
+\newblock Vehicle vision system utilizing camera synchronization, November~1,
+  2016.
+\newblock US Patent 9,481,301
+\thudot
+
+\bibitem{戴琼海111}
+戴琼海, 林星.
+\newblock 检验多视角采集系统的同步性的方法和装置.
+\newblock 中国, 2011, CN102082957B
+\thudot
+
+\bibitem{赵莉1992高速摄影机数据记录系统研究}
+赵莉, 查冠华, 田洁.
+\newblock 高速摄影机数据记录系统研究.
+\newblock 光子学报, 1992, 21(2):176--180
+\thudot
+
+\bibitem{zhao2009high}
+Zhao Q, Chen Y~Q.
+\newblock High-precision synchronization of video cameras using a single binary
+  light source.
+\newblock Journal of Electronic Imaging, 2009, 18(4):040501--040501
 \thudot
 
 \end{thebibliography}

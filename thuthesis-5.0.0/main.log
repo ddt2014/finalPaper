@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.3)  24 MAR 2017 19:33
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.3)  28 MAR 2017 00:01
 entering extended mode
 **C:/Users/Zheng/Desktop/finalPaper/thuthesis-5.0.0/main.tex
 (C:/Users/Zheng/Desktop/finalPaper/thuthesis-5.0.0/main.tex
@@ -2037,10 +2037,6 @@ LaTeX Info: Redefining \nameref on input line 19.
 (data/cover.tex)
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 30.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -2.00792pt
 (hyperref)                removed on input line 30.
 
@@ -2069,10 +2065,6 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: pdfproducer: xdvipdfmx will use its own setting
 (hyperref)                instead of the value given on input line 30.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 35.
-
 \g__fontspec_family_SimHei_int=\count315
 .................................................
 . fontspec info: "no-font-shape"
@@ -2100,30 +2092,6 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 . <->"SimHei/OT:script=hani;language=DFLT;mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
-LaTeX Font Info:    Try loading font information for OT1+txr on input line 35.
-(C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\ot1txr.fd
-File: ot1txr.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Try loading font information for U+txmia on input line 35.
-
-(C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\utxmia.fd
-File: utxmia.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Try loading font information for U+txsya on input line 35.
-
-(C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\utxsya.fd
-File: utxsya.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Try loading font information for U+txsyb on input line 35.
-
-(C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\utxsyb.fd
-File: utxsyb.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Try loading font information for U+txsyc on input line 35.
-
-(C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\utxsyc.fd
-File: utxsyc.fd 2000/12/15 v3.1
-)
 \g__fontspec_family_FangSong_int=\count316
 .................................................
 . fontspec info: "no-font-shape"
@@ -2151,7 +2119,30 @@ File: utxsyc.fd 2000/12/15 v3.1
 . <->"FangSong/OT:script=hani;language=DFLT;mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
+LaTeX Font Info:    Try loading font information for OT1+txr on input line 35.
+(C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\ot1txr.fd
+File: ot1txr.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txmia on input line 35.
 
+(C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\utxmia.fd
+File: utxmia.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txsya on input line 35.
+
+(C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\utxsya.fd
+File: utxsya.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txsyb on input line 35.
+
+(C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\utxsyb.fd
+File: utxsyb.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txsyc on input line 35.
+
+(C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\utxsyc.fd
+File: utxsyc.fd 2000/12/15 v3.1
+)
 Underfull \hbox (badness 10000) detected at line 35
 \EU1/FangSong(0)/m/n/16.06 培 养 单 位
  []
@@ -2169,11 +2160,6 @@ Underfull \hbox (badness 10000) detected at line 35
 
 Underfull \hbox (badness 10000) detected at line 35
 \EU1/FangSong(0)/m/n/16.06 指 导 教 师
- []
-
-
-Overfull \hbox (16.06pt too wide) detected at line 35
-\EU1/FangSong(0)/m/n/16.06 联 合 指 导 教 师
  []
 
 .................................................
@@ -2428,6 +2414,10 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
 
 [7]
+File: figures/iphone.jpg Graphic file (type QTm)
+ <use  "figures/iphone.jpg" >
+File: figures/华为.jpg Graphic file (type QTm)
+ <use  "figures/华为.jpg" >
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2447,7 +2437,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[9])
+[9]
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2458,6 +2448,61 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
 
 [10]
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[11]
+File: figures/zigbee.png Graphic file (type QTm)
+ <use  "figures/zigbee.png" >
+Package hyperref Info: bookmark level for unknown equation defaults to 0 on inp
+ut line 95.
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[12]
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[13]
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[14])
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[15]
 \openout2 = `data/chap03.aux'.
 
  (data/chap03.tex
@@ -2473,7 +2518,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[11
+[16
 
 
 
@@ -2487,11 +2532,11 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[12
+[17
 
 
 
-])
+]
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2501,7 +2546,27 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[13]
+[18]
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[19])
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[20]
 \openout2 = `data/ack.aux'.
 
  (data/ack.tex
@@ -2514,7 +2579,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[14
+[21
 
 
 ])
@@ -2527,7 +2592,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[15
+[22
 
 ]
 \openout2 = `data/resume.aux'.
@@ -2542,7 +2607,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[16
+[23
 
 
 
@@ -2566,12 +2631,12 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
  ) 
 Here is how much of TeX's memory you used:
- 34154 strings out of 428408
- 643228 string characters out of 3160622
- 644946 words of memory out of 3000000
- 37052 multiletter control sequences out of 15000+200000
- 44648 words of font info for 204 fonts, out of 3000000 for 9000
+ 34265 strings out of 428408
+ 646381 string characters out of 3160622
+ 648557 words of memory out of 3000000
+ 37161 multiletter control sequences out of 15000+200000
+ 38022 words of font info for 183 fonts, out of 3000000 for 9000
  1329 hyphenation exceptions out of 8191
- 69i,12n,84p,10487b,746s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 69i,15n,84p,10487b,878s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.pdf (27 pages).
+Output written on main.pdf (34 pages).

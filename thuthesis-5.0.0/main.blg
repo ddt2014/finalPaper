@@ -10,4 +10,7 @@ Warning--can't use both volume and number fields in 1
 Warning--can't use both volume and number fields in 7
 Warning--there's a number but no volume in 王剑非2007基于
 Warning--there's a number but no volume in 姜广文
-(There were 4 warnings)
+Warning--can't use both volume and number fields in Zitnick
+Warning--empty institution in mills2010network
+Warning--there's a publisher but no address in cho2016time
+(There were 7 warnings)
