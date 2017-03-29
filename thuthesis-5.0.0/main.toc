@@ -10,11 +10,30 @@
 \contentsline {subsection}{\numberline {2.3.2}软件同步}{11}{subsection.2.3.2}
 \contentsline {section}{\numberline {2.4}摄像头拍摄时间检测}{13}{section.2.4}
 \contentsline {section}{\numberline {2.5}本章小结}{14}{section.2.5}
-\contentsline {chapter}{\numberline {第3章}引言}{16}{chapter.3}
-\contentsline {section}{\numberline {3.1}研究背景}{16}{section.3.1}
-\contentsline {section}{\numberline {3.2}主要研究内容和挑战}{16}{section.3.2}
-\contentsline {section}{\numberline {3.3}本文的主要贡献}{16}{section.3.3}
-\contentsline {chapter}{参考文献}{17}{section.3.3}
-\contentsline {chapter}{致\hspace {1em}谢}{21}{chapter*.15}
-\contentsline {chapter}{声\hspace {1em}明}{21}{chapter*.16}
-\contentsline {chapter}{个人简历、在学期间发表的学术论文与研究成果}{23}{chapter*.17}
+\contentsline {chapter}{\numberline {第3章}多摄像头系统的拍摄时间检测}{16}{chapter.3}
+\contentsline {section}{\numberline {3.1}本章引言}{16}{section.3.1}
+\contentsline {section}{\numberline {3.2}拍摄时间检测方法}{17}{section.3.2}
+\contentsline {section}{\numberline {3.3}LED点阵编码方法}{18}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}流水编码}{18}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}二进制编码}{19}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}格雷码编码}{20}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}分组叠加编码}{22}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}进位流水编码}{23}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}编码方法比较}{25}{subsection.3.3.6}
+\contentsline {section}{\numberline {3.4}图像检测算法}{25}{section.3.4}
+\contentsline {section}{\numberline {3.5}本章小结}{25}{section.3.5}
+\contentsline {chapter}{\numberline {第4章}多摄像头系统的拍摄时间检测}{26}{chapter.4}
+\contentsline {section}{\numberline {4.1}本章引言}{26}{section.4.1}
+\contentsline {section}{\numberline {4.2}主要研究内容和挑战}{26}{section.4.2}
+\contentsline {section}{\numberline {4.3}本文的主要贡献}{26}{section.4.3}
+\contentsline {chapter}{\numberline {第5章}多摄像头系统的拍摄时间检测}{27}{chapter.5}
+\contentsline {section}{\numberline {5.1}本章引言}{27}{section.5.1}
+\contentsline {section}{\numberline {5.2}主要研究内容和挑战}{27}{section.5.2}
+\contentsline {section}{\numberline {5.3}本文的主要贡献}{27}{section.5.3}
+\contentsline {chapter}{\numberline {第6章}总结与展望}{28}{chapter.6}
+\contentsline {section}{\numberline {6.1}工作总结}{28}{section.6.1}
+\contentsline {section}{\numberline {6.2}未来展望}{28}{section.6.2}
+\contentsline {chapter}{参考文献}{29}{section.6.2}
+\contentsline {chapter}{致\hspace {1em}谢}{33}{chapter*.25}
+\contentsline {chapter}{声\hspace {1em}明}{33}{chapter*.26}
+\contentsline {chapter}{个人简历、在学期间发表的学术论文与研究成果}{35}{chapter*.27}

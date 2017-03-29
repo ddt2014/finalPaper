@@ -410,4 +410,19 @@ Zhao Q, Chen Y~Q.
 \newblock Journal of Electronic Imaging, 2009, 18(4):040501--040501
 \thudot
 
+\bibitem{mehta1996some}
+Mehta H, Owens R~M, Irwin M~J.
+\newblock Some issues in gray code addressing.
+\newblock  VLSI, 1996. Proceedings., Sixth Great Lakes Symposium on. IEEE,
+  1996.
+\newblock  178--181
+\thudot
+
+\bibitem{bitner1976efficient}
+Bitner J~R, Ehrlich G, Reingold E~M.
+\newblock Efficient generation of the binary reflected gray code and its
+  applications.
+\newblock Communications of the ACM, 1976, 19(9):517--521
+\thudot
+
 \end{thebibliography}
