@@ -425,4 +425,24 @@ Bitner J~R, Ehrlich G, Reingold E~M.
 \newblock Communications of the ACM, 1976, 19(9):517--521
 \thudot
 
+\bibitem{rumball1992method}
+Rumball D~A.
+\newblock Method and apparatus for converting digital yuv video signals to rgb
+  video signals, June~23, 1992.
+\newblock US Patent 5,124,688
+\thudot
+
+\bibitem{canny1986computational}
+Canny J.
+\newblock A computational approach to edge detection.
+\newblock IEEE Transactions on pattern analysis and machine intelligence, 1986,
+  (6):679--698
+\thudot
+
+\bibitem{fitzgibbon1996buyer}
+Fitzgibbon A~W, Fisher R~B, et~al.
+\newblock A buyer's guide to conic fitting.
+\newblock DAI Research paper, 1996.
+\thudot
+
 \end{thebibliography}

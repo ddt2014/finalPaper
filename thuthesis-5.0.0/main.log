@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.3)  29 MAR 2017 19:07
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.3)  6 APR 2017 19:59
 entering extended mode
 **C:/Users/Zheng/Desktop/finalPaper/thuthesis-5.0.0/main.tex
 (C:/Users/Zheng/Desktop/finalPaper/thuthesis-5.0.0/main.tex
@@ -1905,63 +1905,69 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 
 LaTeX Warning: Label `flowE' multiply defined.
 
+
+LaTeX Warning: Label `gray' multiply defined.
+
+
+LaTeX Warning: Label `flowE' multiply defined.
+
 ) (data/chap04.aux) (data/chap05.aux) (data/chap06.aux) (data/ack.aux)
 (data/resume.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 19.
-LaTeX Font Info:    Try loading font information for OML+txmi on input line 19.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 20.
+LaTeX Font Info:    Try loading font information for OML+txmi on input line 20.
 
 
 (C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 19.
-LaTeX Font Info:    Try loading font information for OMS+txsy on input line 19.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 20.
+LaTeX Font Info:    Try loading font information for OMS+txsy on input line 20.
 
 
 (C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 19.
-LaTeX Font Info:    Try loading font information for OMX+txex on input line 19.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 20.
+LaTeX Font Info:    Try loading font information for OMX+txex on input line 20.
 
 
 (C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 19.
-LaTeX Font Info:    Try loading font information for U+txexa on input line 19.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 20.
+LaTeX Font Info:    Try loading font information for U+txexa on input line 20.
 
 (C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 19.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 19.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 20.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 20.
 
 (C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\tipa\t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 19.
+LaTeX Info: Redefining \selectfont on input line 20.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
@@ -1982,7 +1988,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 99.
 
 )
-Package hyperref Info: Link coloring OFF on input line 19.
+Package hyperref Info: Link coloring OFF on input line 20.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1992,9 +1998,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count314
 )
-LaTeX Info: Redefining \ref on input line 19.
-LaTeX Info: Redefining \pageref on input line 19.
-LaTeX Info: Redefining \nameref on input line 19.
+LaTeX Info: Redefining \ref on input line 20.
+LaTeX Info: Redefining \pageref on input line 20.
+LaTeX Info: Redefining \nameref on input line 20.
 
 (main.out) (main.out)
 \@outlinefile=\write3
@@ -2039,32 +2045,32 @@ LaTeX Info: Redefining \nameref on input line 19.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -2.00792pt
-(hyperref)                removed on input line 30.
+(hyperref)                removed on input line 31.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\lower' on input line 30.
+(hyperref)                removing `\lower' on input line 31.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hbox' on input line 30.
+(hyperref)                removing `\hbox' on input line 31.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -1.50562pt
-(hyperref)                removed on input line 30.
+(hyperref)                removed on input line 31.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\spacefactor' on input line 30.
+(hyperref)                removing `\spacefactor' on input line 31.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@m' on input line 30.
+(hyperref)                removing `\@m' on input line 31.
 
 
 Package hyperref Warning: pdfproducer: xdvipdfmx will use its own setting
-(hyperref)                instead of the value given on input line 30.
+(hyperref)                instead of the value given on input line 31.
 
 \g__fontspec_family_SimHei_int=\count315
 .................................................
@@ -2120,46 +2126,46 @@ Package hyperref Warning: pdfproducer: xdvipdfmx will use its own setting
 . <->"FangSong/OT:script=hani;language=DFLT;mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
-LaTeX Font Info:    Try loading font information for OT1+txr on input line 35.
+LaTeX Font Info:    Try loading font information for OT1+txr on input line 36.
 (C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txmia on input line 35.
+LaTeX Font Info:    Try loading font information for U+txmia on input line 36.
 
 (C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsya on input line 35.
+LaTeX Font Info:    Try loading font information for U+txsya on input line 36.
 
 (C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsyb on input line 35.
+LaTeX Font Info:    Try loading font information for U+txsyb on input line 36.
 
 (C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsyc on input line 35.
+LaTeX Font Info:    Try loading font information for U+txsyc on input line 36.
 
 (C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
-Underfull \hbox (badness 10000) detected at line 35
+Underfull \hbox (badness 10000) detected at line 36
 \EU1/FangSong(0)/m/n/16.06 培 养 单 位
  []
 
 
-Underfull \hbox (badness 10000) detected at line 35
+Underfull \hbox (badness 10000) detected at line 36
 \EU1/FangSong(0)/m/n/16.06 学 科
  []
 
 
-Underfull \hbox (badness 10000) detected at line 35
+Underfull \hbox (badness 10000) detected at line 36
 \EU1/FangSong(0)/m/n/16.06 研 究 生
  []
 
 
-Underfull \hbox (badness 10000) detected at line 35
+Underfull \hbox (badness 10000) detected at line 36
 \EU1/FangSong(0)/m/n/16.06 指 导 教 师
  []
 
@@ -2615,19 +2621,6 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
 [23]
 File: figures/composite.png Graphic file (type QTm)
  <use  "figures/composite.png" >
-Missing character: There is no  in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;mapping=tex-text;!
-Missing character: There is no  in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;mapping=tex-text;!
-Missing character: There is no  in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;mapping=tex-text;!
-Missing character: There is no  in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;mapping=tex-text;!
-Missing character: There is no  in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;mapping=tex-text;!
-Missing character: There is no  in font Times New Roman/OT:script=latn;languag
-e=DFLT;mapping=tex-text;mapping=tex-text;!
-
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2637,7 +2630,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[24])
+[24]
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2648,6 +2641,91 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
 
 [25]
+LaTeX Font Info:    Try loading font information for OMS+TimesNewRoman(0) on in
+put line 221.
+LaTeX Font Info:    No file OMSTimesNewRoman(0).fd. on input line 221.
+
+
+LaTeX Font Warning: Font shape `OMS/TimesNewRoman(0)/m/n' undefined
+(Font)              using `OMS/txsy/m/n' instead on input line 221.
+
+\thu@tempboxa=\box70
+File: figures/p1.png Graphic file (type QTm)
+<use  "figures/p1.png" >
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[26]
+File: figures/p2.png Graphic file (type QTm)
+ <use  "figures/p2.png" >
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[27]
+File: figures/p3.png Graphic file (type QTm)
+ <use  "figures/p3.png" >
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[28]
+File: figures/p4.png Graphic file (type QTm)
+ <use  "figures/p4.png" >
+File: figures/p5.png Graphic file (type QTm)
+ <use  "figures/p5.png" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[29]
+File: figures/p6.png Graphic file (type QTm)
+ <use  "figures/p6.png" >
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[30])
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[31]
 \openout2 = `data/chap04.aux'.
 
  (data/chap04.tex
@@ -2662,7 +2740,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[26
+[32
 
 
 
@@ -2681,7 +2759,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[27
+[33
 
 
 
@@ -2700,86 +2778,11 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[28
+[34
 
 
 
 ] (main.bbl
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-[29
-
-
-
-]
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-[30]
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-[31])
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-[32]
-\openout2 = `data/ack.aux'.
-
- (data/ack.tex
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-[33
-
-
-])
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-[34
-
-]
-\openout2 = `data/resume.aux'.
-
- (data/resume.tex)
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2794,16 +2797,91 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
 
 
 ]
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[36]
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[37])
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[38]
+\openout2 = `data/ack.aux'.
+
+ (data/ack.tex
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[39
+
+
+])
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[40
+
+]
+\openout2 = `data/resume.aux'.
+
+ (data/resume.tex)
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[41
+
+
+
+]
 \tf@thm=\write5
 \openout5 = `main.thm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 71.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 71.
  (main.aux (data/chap01.aux) (data/chap02.aux) (data/chap03.aux)
 (data/chap04.aux) (data/chap05.aux) (data/chap06.aux) (data/ack.aux)
 (data/resume.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 70.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 70.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 71.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 71.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2811,15 +2889,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
  ) 
 Here is how much of TeX's memory you used:
- 34373 strings out of 428408
- 648757 string characters out of 3160622
- 653743 words of memory out of 3000000
- 37246 multiletter control sequences out of 15000+200000
- 47925 words of font info for 210 fonts, out of 3000000 for 9000
+ 34434 strings out of 428408
+ 650316 string characters out of 3160622
+ 654195 words of memory out of 3000000
+ 37297 multiletter control sequences out of 15000+200000
+ 47941 words of font info for 212 fonts, out of 3000000 for 9000
  1329 hyphenation exceptions out of 8191
- 69i,15n,84p,10487b,878s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 69i,20n,84p,10487b,878s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.pdf (47 pages).
+Output written on main.pdf (53 pages).
