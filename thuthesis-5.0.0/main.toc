@@ -26,18 +26,20 @@
 \contentsline {section}{\numberline {4.1}本章引言}{32}{section.4.1}
 \contentsline {section}{\numberline {4.2}同步过程中存在的几个问题}{32}{section.4.2}
 \contentsline {subsection}{\numberline {4.2.1}果冻效应}{32}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}多摄像头视野校准}{34}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}多摄像头视野校准}{36}{subsection.4.2.3}
-\contentsline {section}{\numberline {4.3}系统同步过程}{36}{section.4.3}
-\contentsline {section}{\numberline {4.4}本章小结}{40}{section.4.4}
-\contentsline {chapter}{\numberline {第5章}实验与结果分析}{41}{chapter.5}
-\contentsline {section}{\numberline {5.1}本章引言}{41}{section.5.1}
-\contentsline {section}{\numberline {5.2}LED点阵编码方法比较}{41}{section.5.2}
-\contentsline {section}{\numberline {5.3}本文的主要贡献}{41}{section.5.3}
-\contentsline {chapter}{\numberline {第6章}总结与展望}{42}{chapter.6}
-\contentsline {section}{\numberline {6.1}工作总结}{42}{section.6.1}
-\contentsline {section}{\numberline {6.2}未来展望}{42}{section.6.2}
-\contentsline {chapter}{参考文献}{43}{section.6.2}
-\contentsline {chapter}{致\hspace {1em}谢}{47}{chapter*.39}
-\contentsline {chapter}{声\hspace {1em}明}{47}{chapter*.40}
-\contentsline {chapter}{个人简历、在学期间发表的学术论文与研究成果}{49}{chapter*.41}
+\contentsline {subsection}{\numberline {4.2.2}多摄像头视野校准}{35}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}系统同步过程}{37}{section.4.3}
+\contentsline {section}{\numberline {4.4}本章小结}{41}{section.4.4}
+\contentsline {chapter}{\numberline {第5章}实验与结果分析}{42}{chapter.5}
+\contentsline {section}{\numberline {5.1}本章引言}{42}{section.5.1}
+\contentsline {section}{\numberline {5.2}多摄像头系统及拍摄时间检测系统硬件配置}{42}{section.5.2}
+\contentsline {section}{\numberline {5.3}LED点阵编码方法比较}{43}{section.5.3}
+\contentsline {section}{\numberline {5.4}摄像头拍摄时间检测}{44}{section.5.4}
+\contentsline {section}{\numberline {5.5}多摄像头系统时间同步}{45}{section.5.5}
+\contentsline {section}{\numberline {5.6}本章小结}{45}{section.5.6}
+\contentsline {chapter}{\numberline {第6章}总结与展望}{46}{chapter.6}
+\contentsline {section}{\numberline {6.1}工作总结}{46}{section.6.1}
+\contentsline {section}{\numberline {6.2}未来展望}{46}{section.6.2}
+\contentsline {chapter}{参考文献}{47}{section.6.2}
+\contentsline {chapter}{致\hspace {1em}谢}{51}{chapter*.45}
+\contentsline {chapter}{声\hspace {1em}明}{51}{chapter*.46}
+\contentsline {chapter}{个人简历、在学期间发表的学术论文与研究成果}{53}{chapter*.47}

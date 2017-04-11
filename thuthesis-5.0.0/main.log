@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.3)  9 APR 2017 17:40
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.3)  11 APR 2017 17:21
 entering extended mode
 **C:/Users/Zheng/Desktop/finalPaper/thuthesis-5.0.0/main.tex
 (C:/Users/Zheng/Desktop/finalPaper/thuthesis-5.0.0/main.tex
@@ -2560,7 +2560,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
 
 [19]
-LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 92
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 93
 .
 
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
@@ -2632,12 +2632,12 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
 
 [25]
 LaTeX Font Info:    Try loading font information for OMS+TimesNewRoman(0) on in
-put line 223.
-LaTeX Font Info:    No file OMSTimesNewRoman(0).fd. on input line 223.
+put line 224.
+LaTeX Font Info:    No file OMSTimesNewRoman(0).fd. on input line 224.
 
 
 LaTeX Font Warning: Font shape `OMS/TimesNewRoman(0)/m/n' undefined
-(Font)              using `OMS/txsy/m/n' instead on input line 223.
+(Font)              using `OMS/txsy/m/n' instead on input line 224.
 
 \thu@tempboxa=\box70
 File: figures/p1.png Graphic file (type QTm)
@@ -2744,8 +2744,8 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
 
 
 ]
-File: figures/take.png Graphic file (type QTm)
- <use  "figures/take.png" >
+File: figures/jelly2.jpg Graphic file (type QTm)
+ <use  "figures/jelly2.jpg" >
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2756,10 +2756,17 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
 
 [33]
+File: figures/take.png Graphic file (type QTm)
+ <use  "figures/take.png" >
 File: figures/t1.jpg Graphic file (type QTm)
  <use  "figures/t1.jpg" >
 File: figures/t3.jpg Graphic file (type QTm)
- <use  "figures/t3.jpg" >
+
+<use  "figures/t3.jpg" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2774,16 +2781,6 @@ File: figures/pbs.jpg Graphic file (type QTm)
  <use  "figures/pbs.jpg" >
 File: figures/pbs2.jpg Graphic file (type QTm)
  <use  "figures/pbs2.jpg" >
-File: figures/eq2.png Graphic file (type QTm)
-
-<use  "figures/eq2.png" >
-File: figures/eq2.png Graphic file (type QTm)
- <use  "figures/eq2.png" >
-File: figures/eq4.jpg Graphic file (type QTm)
- <use  "figures/eq4.jpg" >
-File: figures/eq3.jpg Graphic file (type QTm)
-
-<use  "figures/eq3.jpg" >
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -2798,19 +2795,15 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
 
 [35]
-File: figures/pbsR1.jpg Graphic file (type QTm)
- <use  "figures/pbsR1.jpg" >
-File: figures/pbsR2.jpg Graphic file (type QTm)
- <use  "figures/pbsR2.jpg" >
-File: figures/pbsR3.jpg Graphic file (type QTm)
+File: figures/eq2.png Graphic file (type QTm)
+ <use  "figures/eq2.png" >
+File: figures/eq2.png Graphic file (type QTm)
+ <use  "figures/eq2.png" >
+File: figures/eq4.jpg Graphic file (type QTm)
 
-<use  "figures/pbsR3.jpg" >
-File: figures/pbsR4.jpg Graphic file (type QTm)
- <use  "figures/pbsR4.jpg" >
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
+<use  "figures/eq4.jpg" >
+File: figures/eq3.jpg Graphic file (type QTm)
+ <use  "figures/eq3.jpg" >
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2821,12 +2814,15 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
 
 [36]
-File: figures/system.png Graphic file (type QTm)
- <use  "figures/system.png" >
+File: figures/pbsR1.jpg Graphic file (type QTm)
+ <use  "figures/pbsR1.jpg" >
+File: figures/pbsR2.jpg Graphic file (type QTm)
+ <use  "figures/pbsR2.jpg" >
+File: figures/pbsR3.jpg Graphic file (type QTm)
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
+<use  "figures/pbsR3.jpg" >
+File: figures/pbsR4.jpg Graphic file (type QTm)
+ <use  "figures/pbsR4.jpg" >
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2837,12 +2833,8 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
 
 [37]
-File: figures/sequence.png Graphic file (type QTm)
- <use  "figures/sequence.png" >
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
+File: figures/system.png Graphic file (type QTm)
+ <use  "figures/system.png" >
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2853,6 +2845,8 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
 
 [38]
+File: figures/sequence.png Graphic file (type QTm)
+ <use  "figures/sequence.png" >
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2873,30 +2867,22 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
 
 [40]
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[41]
 \openout2 = `data/chap05.aux'.
 
  (data/chap05.tex
 第5章
-)
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
+\thu@tempboxa=\box71
 
-
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-[41
-
-
-
-]
-\openout2 = `data/chap06.aux'.
-
- (data/chap06.tex
-第6章
-)
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2910,21 +2896,46 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
 
 
 
-] (main.bbl
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-[43
-
-
-
 ]
+File: figures/computer.png Graphic file (type QTm)
+ <use  "figures/computer.png" >
+File: figures/detect.png Graphic file (type QTm)
+ <use  "figures/detect.png" >
+File: figures/coding.png Graphic file (type QTm)
+
+<use  "figures/coding.png" >
+Overfull \hbox (13.74657pt too wide) in paragraph at lines 37--38
+ [][] 
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[43]
+File: figures/2ms.jpg Graphic file (type QTm)
+ <use  "figures/2ms.jpg" >
+File: figures/2msR.jpg Graphic file (type QTm)
+ <use  "figures/2msR.jpg" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: figures/stamp.png Graphic file (type QTm)
+<use  "figures/stamp.png" >
+Overfull \hbox (28.26628pt too wide) in paragraph at lines 71--72
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2944,7 +2955,12 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[45])
+[45]
+\openout2 = `data/chap06.aux'.
+
+ (data/chap06.tex
+第6章
+)
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2954,10 +2970,11 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[46]
-\openout2 = `data/ack.aux'.
+[46
 
- (data/ack.tex
+
+
+] (main.bbl
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2970,6 +2987,53 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
 [47
 
 
+
+]
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[48]
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[49])
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[50]
+\openout2 = `data/ack.aux'.
+
+ (data/ack.tex
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[51
+
+
 ])
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
@@ -2980,7 +3044,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[48
+[52
 
 ]
 \openout2 = `data/resume.aux'.
@@ -2995,7 +3059,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[49
+[53
 
 
 
@@ -3017,12 +3081,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
  ) 
 Here is how much of TeX's memory you used:
- 34501 strings out of 428408
- 651533 string characters out of 3160622
- 655910 words of memory out of 3000000
- 37349 multiletter control sequences out of 15000+200000
+ 34526 strings out of 428408
+ 651807 string characters out of 3160622
+ 656772 words of memory out of 3000000
+ 37367 multiletter control sequences out of 15000+200000
  47941 words of font info for 212 fonts, out of 3000000 for 9000
  1329 hyphenation exceptions out of 8191
  69i,20n,84p,10487b,878s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.pdf (61 pages).
+Output written on main.pdf (65 pages).
