@@ -1,10 +1,4 @@
-%%% Local Variables:
-%%% mode: latex
-%%% TeX-master: t
-%%% End:
-%\secretlevel{绝密} \secretyear{2100}
-
-\ctitle{多摄像头系统}
+\ctitle{多摄像头系统的时间同步}
 % 根据自己的情况选，不用这样复杂
 \makeatletter
 \ifthu@bachelor\relax\else
@@ -23,32 +17,7 @@
 \cmajor{计算机科学与技术}
 \cauthor{丁旭}
 \csupervisor{陶品副教授}
-% 如果没有副指导老师或者联合指导老师，把下面两行相应的删除即可。
-% 日期自动生成，如果你要自己写就直接改这个cdate。
-% 硕博也可以启用如下三行，替换其中的\the\year和\the\month为阿拉伯数字。
-%\cdate{\zhdigits{\the\year}年\zhnumber{\the\month}月}
-
-% 博士后部分
-% \cfirstdiscipline{计算机科学与技术}
-% \cseconddiscipline{系统结构}
-% \postdoctordate{2009年7月——2011年7月}
-
-\etitle{System}
-% 这块比较复杂，需要分情况讨论：
-% 1. 学术型硕士
-%    \edegree：必须为Master of Arts或Master of Science（注意大小写）
-%              “哲学、文学、历史学、法学、教育学、艺术学门类，公共管理学科
-%               填写Master of Arts，其它填写Master of Science”
-%    \emajor：“获得一级学科授权的学科填写一级学科名称，其它填写二级学科名称”
-% 2. 专业型硕士
-%    \edegree：“填写专业学位英文名称全称”
-%    \emajor：“工程硕士填写工程领域，其它专业学位不填写此项”
-% 3. 学术型博士
-%    \edegree：Doctor of Philosophy（注意大小写）
-%    \emajor：“获得一级学科授权的学科填写一级学科名称，其它填写二级学科名称”
-% 4. 专业型博士
-%    \edegree：“填写专业学位英文名称全称”
-%    \emajor：不填写此项
+\etitle{the Synchronization of Multicamera System}
 \edegree{Master of Engineering}
 \emajor{Computer Science and Technology}
 \eauthor{Ding Xu}
@@ -58,49 +27,70 @@
 
 % 定义中英文摘要和关键字
 \begin{cabstract}
-  论文的摘要是对论文研究内容和成果的高度概括。摘要应对论文所研究的问题及其研究目
-  的进行描述，对研究方法和过程进行简单介绍，对研究成果和所得结论进行概括。摘要应
-  具有独立性和自明性，其内容应包含与论文全文同等量的主要信息。使读者即使不阅读全
-  文，通过摘要就能了解论文的总体内容和主要成果。
 
-  论文摘要的书写应力求精确、简明。切忌写成对论文书写内容进行提要的形式，尤其要避
-  免“第 1 章……；第 2 章……；……”这种或类似的陈述方式。
+随着摄像头技术的日益发展，为了获得更高性能、实现更多功能，利用多个摄像头构建多摄像头系统 成为了一个重要的发展方向，关于多摄像头系统的研究逐渐深入，应用范围也逐渐广泛起来。为了满足系统应用的各项需求，需要精确控制多摄像头系统内的各个摄像头在特点时间进行拍摄，实现拍摄时间的同步。
 
-  本文介绍清华大学论文模板 \thuthesis{} 的使用方法。本模板符合学校的本科、硕士、
-  博士论文格式要求。
+为了实现多摄像头系统的拍摄时间同步，本文提出了一种利用LED点阵进行拍摄时间检测，根据时间差调整拍摄时间的同步方法。该方法主要分为摄像头拍摄时间检测和多摄像头系统时间同步控制两部分。
 
-  本文的创新点主要有：
-  \begin{itemize}
-    \item 用例子来解释模板的使用方法；
-    \item 用废话来填充无关紧要的部分；
-    \item 一边学习摸索一边编写新代码。
-  \end{itemize}
+在进行摄像头拍摄时间检测时，主要利用FPGA和LED点阵组成检测系统，由FPGA按照一定的编码规律控制点阵中各个LED灯不断变化，组成不同的LED点阵状态形成状态序列。根据不同的编码方法，可以判断各个点阵状态在序列中所处的位置。当利用摄像头对LED点阵进行拍摄时，根据拍摄到的LED点阵的状态，可以确定该状态在状态序列中所处的位置，根据每个状态的持续时长，即可检测摄像头的拍摄时间。对于不同的编码方法，能够得到不同的检测精度，对摄像头也有不同的性能、参数要求，本文共设计了五种编码方法，并通过实验对其检测效果进行了比较。利用该方法对摄像头的拍摄时间进行检测，检测系统无需与摄像头进行数据通信，对摄像头没有特殊的硬件接口要求，能够适用于大多数的摄像头，适用范围较广。同时，该方法能够在摄像头正常工作的过程当中进行检测，无需暂停摄像或对摄像头进行调整。
 
-  关键词是为了文献标引工作、用以表示全文主要内容信息的单词或术语。关键词不超过 5
-  个，每个关键词中间用分号分隔。（模板作者注：关键词分隔符不用考虑，模板会自动处
-  理。英文关键词同理。）
+在获得摄像头的拍摄时间之后，就可以对多摄像头系统进行同步调整。首先将各个摄像头拍摄到的LED点阵图像，由服务器统一进行图像识别，检测摄像头的拍摄时间，计算各个摄像头之间的时间间隔，选定基准摄像头，通过暂停摄像或者调整帧率的方法改变摄像头的拍摄时间，从而控制系统内各个摄像头能够在同一时刻进行拍摄，并同步多次迭代验证不断提高同步精度，实现系统同步。该同步方法基于拍摄时间检测方法实现，能够获得较高的同步精度。同时，由服务器进行图像处理和同步控制，对于摄像头的计算性能要求较低，通过参数调整能够实现不同的同步精度，方法灵活性较高。
+
+本文还利用树莓派电脑控制摄像头进行拍摄，图像处理服务器进行系统控制，搭建了一个具有可扩展性的多摄像头系统，对上述检测和同步方法进行了验证。
 \end{cabstract}
 
-\ckeywords{\TeX, \LaTeX, CJK, 模板, 论文}
+\ckeywords{多摄像头系统, 时间同步, 拍摄时间检测, LED点阵}
 
 \begin{eabstract}
-   An abstract of a dissertation is a summary and extraction of research work
-   and contributions. Included in an abstract should be description of research
-   topic and research objective, brief introduction to methodology and research
-   process, and summarization of conclusion and contributions of the
-   research. An abstract should be characterized by independence and clarity and
-   carry identical information with the dissertation. It should be such that the
-   general idea and major contributions of the dissertation are conveyed without
-   reading the dissertation.
 
-   An abstract should be concise and to the point. It is a misunderstanding to
-   make an abstract an outline of the dissertation and words ``the first
-   chapter'', ``the second chapter'' and the like should be avoided in the
-   abstract.
+With the development of camera technology, in order to achieve higher performance and more functions, multi-camera system has become an important research direction. There are more and more researches on the multi-camera system. In order to meet the needs of the system application, the system must achieve the shooting time synchronization, to accurately control cameras to shoot at a certain moment.
 
-   Key words are terms used in a dissertation for indexing, reflecting core
-   information of the dissertation. An abstract may contain a maximum of 5 key
-   words, with semi-colons used in between to separate one another.
+In order to realize the time synchronization of multi-camera system, this paper proposes a high precision method to detect the synchronization accuracy by using a FPGA based LED matrix as a detector. The method is divided into two parts: camera shooting time detection and multi-camera system time synchronization control.
+
+This paper use a detection system composed by FPGA and LED dot matrix to detect the camera shooting time. The LED lights in the LED matrix continue to change forming a state sequence. Depending on the encoding method, it is possible to determine the position of each matrix state in the sequence. When shooting the LED dot matrix using the camera, the position of the state in the state sequence can be determined, and the shooting time of the camera can be detected. For different encoding methods, different detection accuracy can be obtained, the camera also has different performance and parameter requirements. In this paper, five encoding methods are designed, and the results are compared according to experiments. With this method, the detection system needs no data communication with the camera, so the camera does not have to equip special hardware interface. This method can be applied to most of the camera. At the same time, the method can be applied during the normal working process of the camera, without pausing or adjusting the camera.
+
+After the camera's shooting time is detected, the multi-camera system can be adjusted synchronously. First of all, the server identifies images of the LED dot matrices captured by cameras. So the server can get cameras' shooting time and calculate the time intervals between the various cameras. According the reference camera, the server then can change the cameras' shooting time by pausing cameras or adjusting the frame rate. So that the cameras in the system can shoot at the same time. And this method can continuously improve the synchronization accuracy by multiple iterative verification. This synchronization method can achieve a high synchronization accuracy for the use of the shooting time detection method. At the same time, the cameras' computing performance requirements are lower and the method flexibility is higher.
+
+This paper also builds a scalable multi-camera system, using the Raspberry to to control the camera and the image processing server to control the system. With this system, the above detection and synchronization method has been verified.
+
 \end{eabstract}
 
-\ekeywords{\TeX, \LaTeX, CJK, template, thesis}
+\ekeywords{multicamera system, synchronization, shooting time detection, LED matrix}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

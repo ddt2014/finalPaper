@@ -63,8 +63,9 @@
   \subcaptionbox{拍摄时间计算结果\label{2msR}}
       {\includegraphics[height=4.5cm]{2msR}}
   \caption{摄像头拍摄时间检测}
-    
 \end{figure}
+
+为了验证检测结果的正确性，连续拍摄100张LED点阵图片，每两帧之间设置一定的时间间隔。读取摄像头给每帧图像设定的拍摄时间戳，计算两帧图像之间的时间间隔。同时根据拍摄时间检测算法根据LED点阵状态检测拍摄时间，计算两帧图像之间的时间间隔。摄像头设定的时间戳由Linux操作系统计算，精度能够达到微秒级别，通过LED点阵计算的拍摄时间根据上文所介绍的参数设置，可达到$400\mu s$。计算结果如图~\ref{stamp}所示，平均值和均方差如表~\ref{codingT}所示：
 
 \begin{figure}[h] 
   \centering
@@ -73,11 +74,24 @@
     \label{stamp}
 \end{figure}
 
-\section{多摄像头系统时间同步}
+\begin{table}[h]
+  \centering
+  \caption{各编码方法检测结果的均方差值} 
+  \label{codingT}
+  \begin{tabular}{|c|c|c|}\hline
+  &  平均值 &  均方差 \\ \hline 
+  时间戳 & 1554.7703 &0.1367\\ \hline
+  LED点阵检测 & 1554.7313 & 2.1968\\ \hline
+  \end{tabular}
+\end{table}
+
+由计算结果可以看出，本文提出的拍摄时间检测方法与利用时间戳计算出的结果基本一致，每两帧图像之间的时间差的计算平均值仅相差$40\mu s$左右。但是受该检测方法的精度限制，其检测结果的相对于利用时间戳计算的结果波动较大，均方差值略大，但仍处于合理波动范围内，利用该方法能够准确有效地检测摄像头的拍摄时间。
+
+\section{**多摄像头系统时间同步}
 
 
 
-\section{本章小结}
+\section{**本章小结}
 
 
 

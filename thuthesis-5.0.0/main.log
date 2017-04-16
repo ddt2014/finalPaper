@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.3)  11 APR 2017 17:21
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.3)  16 APR 2017 12:08
 entering extended mode
 **C:/Users/Zheng/Desktop/finalPaper/thuthesis-5.0.0/main.tex
 (C:/Users/Zheng/Desktop/finalPaper/thuthesis-5.0.0/main.tex
@@ -1902,62 +1902,66 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@floatcapt=\box68
 )) (main.aux
 (data/chap01.aux) (data/chap02.aux) (data/chap03.aux) (data/chap04.aux)
-(data/chap05.aux) (data/chap06.aux) (data/ack.aux) (data/resume.aux))
+(data/chap05.aux
+
+LaTeX Warning: Label `codingT' multiply defined.
+
+) (data/chap06.aux) (data/ack.aux) (data/resume.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 20.
-LaTeX Font Info:    Try loading font information for OML+txmi on input line 20.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 22.
+LaTeX Font Info:    Try loading font information for OML+txmi on input line 22.
 
 
 (C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 20.
-LaTeX Font Info:    Try loading font information for OMS+txsy on input line 20.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 22.
+LaTeX Font Info:    Try loading font information for OMS+txsy on input line 22.
 
 
 (C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 20.
-LaTeX Font Info:    Try loading font information for OMX+txex on input line 20.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 22.
+LaTeX Font Info:    Try loading font information for OMX+txex on input line 22.
 
 
 (C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 20.
-LaTeX Font Info:    Try loading font information for U+txexa on input line 20.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 22.
+LaTeX Font Info:    Try loading font information for U+txexa on input line 22.
 
 (C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 20.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 20.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 22.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 22.
 
 (C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\tipa\t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 20.
+LaTeX Info: Redefining \selectfont on input line 22.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
@@ -1978,7 +1982,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 99.
 
 )
-Package hyperref Info: Link coloring OFF on input line 20.
+Package hyperref Info: Link coloring OFF on input line 22.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1988,9 +1992,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count314
 )
-LaTeX Info: Redefining \ref on input line 20.
-LaTeX Info: Redefining \pageref on input line 20.
-LaTeX Info: Redefining \nameref on input line 20.
+LaTeX Info: Redefining \ref on input line 22.
+LaTeX Info: Redefining \pageref on input line 22.
+LaTeX Info: Redefining \nameref on input line 22.
 
 (main.out) (main.out)
 \@outlinefile=\write3
@@ -2033,34 +2037,8 @@ LaTeX Info: Redefining \nameref on input line 20.
 
 (data/cover.tex)
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern -2.00792pt
-(hyperref)                removed on input line 31.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\lower' on input line 31.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hbox' on input line 31.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern -1.50562pt
-(hyperref)                removed on input line 31.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\spacefactor' on input line 31.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@m' on input line 31.
-
-
 Package hyperref Warning: pdfproducer: xdvipdfmx will use its own setting
-(hyperref)                instead of the value given on input line 31.
+(hyperref)                instead of the value given on input line 33.
 
 \g__fontspec_family_SimHei_int=\count315
 .................................................
@@ -2116,46 +2094,46 @@ Package hyperref Warning: pdfproducer: xdvipdfmx will use its own setting
 . <->"FangSong/OT:script=hani;language=DFLT;mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
-LaTeX Font Info:    Try loading font information for OT1+txr on input line 36.
+LaTeX Font Info:    Try loading font information for OT1+txr on input line 38.
 (C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txmia on input line 36.
+LaTeX Font Info:    Try loading font information for U+txmia on input line 38.
 
 (C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsya on input line 36.
+LaTeX Font Info:    Try loading font information for U+txsya on input line 38.
 
 (C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsyb on input line 36.
+LaTeX Font Info:    Try loading font information for U+txsyb on input line 38.
 
 (C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsyc on input line 36.
+LaTeX Font Info:    Try loading font information for U+txsyc on input line 38.
 
 (C:\Users\Zheng\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
-Underfull \hbox (badness 10000) detected at line 36
+Underfull \hbox (badness 10000) detected at line 38
 \EU1/FangSong(0)/m/n/16.06 培 养 单 位
  []
 
 
-Underfull \hbox (badness 10000) detected at line 36
+Underfull \hbox (badness 10000) detected at line 38
 \EU1/FangSong(0)/m/n/16.06 学 科
  []
 
 
-Underfull \hbox (badness 10000) detected at line 36
+Underfull \hbox (badness 10000) detected at line 38
 \EU1/FangSong(0)/m/n/16.06 研 究 生
  []
 
 
-Underfull \hbox (badness 10000) detected at line 36
+Underfull \hbox (badness 10000) detected at line 38
 \EU1/FangSong(0)/m/n/16.06 指 导 教 师
  []
 
@@ -2243,7 +2221,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
 
 [2
 
-] (main.toc
+]
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2253,23 +2231,23 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[3
+[3] (main.toc
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[4
 
 ])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- (data/denotation.tex
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
 
-
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-[4]
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2279,19 +2257,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[5
-
-])
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-[6]
+[5]
 \openout2 = `data/chap01.aux'.
 
  (data/chap01.tex
@@ -2364,7 +2330,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
 File: figures/multi.jpg Graphic file (type QTm)
  <use  "figures/multi.jpg" >
 File: figures/camera.jpg Graphic file (type QTm)
- <use  "figures/camera.jpg" >)
+ <use  "figures/camera.jpg" >
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2375,6 +2341,36 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
 
 [5]
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[6]
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[7])
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[8]
 \openout2 = `data/chap02.aux'.
 
  (data/chap02.tex
@@ -2394,7 +2390,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[6
+[9
 
 
 
@@ -2410,7 +2406,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[7]
+[10]
 File: figures/iphone.jpg Graphic file (type QTm)
  <use  "figures/iphone.jpg" >
 File: figures/华为.jpg Graphic file (type QTm)
@@ -2424,42 +2420,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[8]
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-[9]
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-[10]
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
 [11]
-File: figures/zigbee.png Graphic file (type QTm)
- <use  "figures/zigbee.png" >
-Package hyperref Info: bookmark level for unknown equation defaults to 0 on inp
-ut line 95.
-
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2489,7 +2450,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[14])
+[14]
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2500,6 +2461,41 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
 
 [15]
+File: figures/zigbee.png Graphic file (type QTm)
+ <use  "figures/zigbee.png" >
+Package hyperref Info: bookmark level for unknown equation defaults to 0 on inp
+ut line 106.
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[16]
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[17])
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[18]
 \openout2 = `data/chap03.aux'.
 
  (data/chap03.tex
@@ -2515,7 +2511,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[16
+[19
 
 
 
@@ -2529,7 +2525,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[17]
+[20]
 File: figures/点阵.png Graphic file (type QTm)
  <use  "figures/点阵.png" >
 File: figures/flow.png Graphic file (type QTm)
@@ -2547,7 +2543,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[18]
+[21]
 File: figures/binary.png Graphic file (type QTm)
  <use  "figures/binary.png" >
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
@@ -2559,7 +2555,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[19]
+[22]
 LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 93
 .
 
@@ -2572,7 +2568,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[20]
+[23]
 File: figures/gray.png Graphic file (type QTm)
  <use  "figures/gray.png" >
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
@@ -2584,7 +2580,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[21]
+[24]
 File: figures/over.png Graphic file (type QTm)
  <use  "figures/over.png" >
 File: figures/series.png Graphic file (type QTm)
@@ -2598,7 +2594,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[22]
+[25]
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2608,7 +2604,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[23]
+[26]
 File: figures/composite.png Graphic file (type QTm)
  <use  "figures/composite.png" >
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
@@ -2620,7 +2616,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[24]
+[27]
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2630,7 +2626,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[25]
+[28]
 LaTeX Font Info:    Try loading font information for OMS+TimesNewRoman(0) on in
 put line 224.
 LaTeX Font Info:    No file OMSTimesNewRoman(0).fd. on input line 224.
@@ -2651,13 +2647,9 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[26]
+[29]
 File: figures/p2.png Graphic file (type QTm)
  <use  "figures/p2.png" >
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2667,7 +2659,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[27]
+[30]
 File: figures/p3.png Graphic file (type QTm)
  <use  "figures/p3.png" >
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
@@ -2679,7 +2671,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[28]
+[31]
 File: figures/p4.png Graphic file (type QTm)
  <use  "figures/p4.png" >
 File: figures/p5.png Graphic file (type QTm)
@@ -2697,7 +2689,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[29]
+[32]
 File: figures/p6.png Graphic file (type QTm)
  <use  "figures/p6.png" >
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
@@ -2709,7 +2701,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[30])
+[33])
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2719,7 +2711,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[31]
+[34]
 \openout2 = `data/chap04.aux'.
 
  (data/chap04.tex
@@ -2739,7 +2731,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[32
+[35
 
 
 
@@ -2755,7 +2747,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[33]
+[36]
 File: figures/take.png Graphic file (type QTm)
  <use  "figures/take.png" >
 File: figures/t1.jpg Graphic file (type QTm)
@@ -2776,7 +2768,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[34]
+[37]
 File: figures/pbs.jpg Graphic file (type QTm)
  <use  "figures/pbs.jpg" >
 File: figures/pbs2.jpg Graphic file (type QTm)
@@ -2794,7 +2786,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[35]
+[38]
 File: figures/eq2.png Graphic file (type QTm)
  <use  "figures/eq2.png" >
 File: figures/eq2.png Graphic file (type QTm)
@@ -2813,7 +2805,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[36]
+[39]
 File: figures/pbsR1.jpg Graphic file (type QTm)
  <use  "figures/pbsR1.jpg" >
 File: figures/pbsR2.jpg Graphic file (type QTm)
@@ -2832,7 +2824,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[37]
+[40]
 File: figures/system.png Graphic file (type QTm)
  <use  "figures/system.png" >
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
@@ -2844,7 +2836,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[38]
+[41]
 File: figures/sequence.png Graphic file (type QTm)
  <use  "figures/sequence.png" >
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
@@ -2856,7 +2848,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[39])
+[42]
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2866,7 +2858,20 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[40]
+[43]
+Missing character: There is no ， in font txr!
+Missing character: There is no ， in font txr!
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[44])
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2876,7 +2881,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[41]
+[45]
 \openout2 = `data/chap05.aux'.
 
  (data/chap05.tex
@@ -2892,7 +2897,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[42
+[46
 
 
 
@@ -2918,7 +2923,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[43]
+[47]
 File: figures/2ms.jpg Graphic file (type QTm)
  <use  "figures/2ms.jpg" >
 File: figures/2msR.jpg Graphic file (type QTm)
@@ -2926,14 +2931,22 @@ File: figures/2msR.jpg Graphic file (type QTm)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-File: figures/stamp.png Graphic file (type QTm)
-<use  "figures/stamp.png" >
-Overfull \hbox (28.26628pt too wide) in paragraph at lines 71--72
- [][] 
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
  []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[48]
+File: figures/stamp.png Graphic file (type QTm)
+ <use  "figures/stamp.png" >
+Overfull \hbox (28.26628pt too wide) in paragraph at lines 72--73
+ [][] 
+ []
 
 )
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
@@ -2945,7 +2958,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[44]
+[49]
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2955,7 +2968,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[45]
+[50]
 \openout2 = `data/chap06.aux'.
 
  (data/chap06.tex
@@ -2970,86 +2983,21 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[46
-
-
-
-] (main.bbl
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-[47
-
-
-
-]
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-[48]
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-[49])
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-[50]
-\openout2 = `data/ack.aux'.
-
- (data/ack.tex
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
 [51
 
 
-])
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-[52
 
 ]
-\openout2 = `data/resume.aux'.
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
 
- (data/resume.tex)
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[52] (main.bbl
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -3064,29 +3012,107 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
 
 
 ]
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[54]
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[55])
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[56]
+\openout2 = `data/ack.aux'.
+
+ (data/ack.tex
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[57
+
+
+])
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[58
+
+]
+\openout2 = `data/resume.aux'.
+
+ (data/resume.tex)
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[59
+
+
+
+]
 \tf@thm=\write5
 \openout5 = `main.thm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 71.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 71.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 73.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 73.
  (main.aux (data/chap01.aux) (data/chap02.aux) (data/chap03.aux)
 (data/chap04.aux) (data/chap05.aux) (data/chap06.aux) (data/ack.aux)
 (data/resume.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 71.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 71.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 73.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 73.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 73.
  ) 
 Here is how much of TeX's memory you used:
- 34526 strings out of 428408
- 651807 string characters out of 3160622
- 656772 words of memory out of 3000000
- 37367 multiletter control sequences out of 15000+200000
- 47941 words of font info for 212 fonts, out of 3000000 for 9000
+ 34461 strings out of 428408
+ 647460 string characters out of 3160622
+ 655828 words of memory out of 3000000
+ 37303 multiletter control sequences out of 15000+200000
+ 47957 words of font info for 214 fonts, out of 3000000 for 9000
  1329 hyphenation exceptions out of 8191
- 69i,20n,84p,10487b,878s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 69i,20n,84p,10487b,852s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.pdf (65 pages).
+Output written on main.pdf (70 pages).
