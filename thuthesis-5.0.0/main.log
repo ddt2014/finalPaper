@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.3)  16 APR 2017 12:08
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.3)  17 APR 2017 13:00
 entering extended mode
 **C:/Users/Zheng/Desktop/finalPaper/thuthesis-5.0.0/main.tex
 (C:/Users/Zheng/Desktop/finalPaper/thuthesis-5.0.0/main.tex
@@ -2787,8 +2787,8 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
 
 [38]
-File: figures/eq2.png Graphic file (type QTm)
- <use  "figures/eq2.png" >
+File: figures/eq1.jpg Graphic file (type QTm)
+ <use  "figures/eq1.jpg" >
 File: figures/eq2.png Graphic file (type QTm)
  <use  "figures/eq2.png" >
 File: figures/eq4.jpg Graphic file (type QTm)
@@ -2944,9 +2944,36 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
 [48]
 File: figures/stamp.png Graphic file (type QTm)
  <use  "figures/stamp.png" >
-Overfull \hbox (28.26628pt too wide) in paragraph at lines 72--73
+Overfull \hbox (28.26628pt too wide) in paragraph at lines 73--74
  [][] 
  []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[49]
+File: figures/4unsync.png Graphic file (type QTm)
+ <use  "figures/4unsync.png" >
+File: figures/4sync.png Graphic file (type QTm)
+ <use  "figures/4sync.png" >
+Overfull \hbox (7.8399pt too wide) in paragraph at lines 100--103
+ [][] 
+ []
+
+
+Overfull \hbox (7.8399pt too wide) in paragraph at lines 100--103
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 )
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
@@ -2958,17 +2985,17 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[49]
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
 [50]
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[51]
 \openout2 = `data/chap06.aux'.
 
  (data/chap06.tex
@@ -2983,7 +3010,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[51
+[52
 
 
 
@@ -2997,7 +3024,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[52] (main.bbl
+[53] (main.bbl
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -3007,7 +3034,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[53
+[54
 
 
 
@@ -3021,7 +3048,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[54]
+[55]
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -3031,7 +3058,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[55])
+[56])
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -3041,7 +3068,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[56]
+[57]
 \openout2 = `data/ack.aux'.
 
  (data/ack.tex
@@ -3054,7 +3081,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[57
+[58
 
 
 ])
@@ -3067,7 +3094,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[58
+[59
 
 ]
 \openout2 = `data/resume.aux'.
@@ -3082,7 +3109,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[59
+[60
 
 
 
@@ -3107,12 +3134,12 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 73.
  ) 
 Here is how much of TeX's memory you used:
- 34461 strings out of 428408
- 647460 string characters out of 3160622
- 655828 words of memory out of 3000000
- 37303 multiletter control sequences out of 15000+200000
+ 34473 strings out of 428408
+ 647594 string characters out of 3160622
+ 656061 words of memory out of 3000000
+ 37312 multiletter control sequences out of 15000+200000
  47957 words of font info for 214 fonts, out of 3000000 for 9000
  1329 hyphenation exceptions out of 8191
- 69i,20n,84p,10487b,852s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 69i,20n,84p,10487b,860s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.pdf (70 pages).
+Output written on main.pdf (71 pages).

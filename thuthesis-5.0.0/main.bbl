@@ -241,6 +241,25 @@ Lu Y, Wang K, Fan G.
 \newblock Sensors, 2016, 16(4):516
 \thudot
 
+\bibitem{戴琼海111}
+戴琼海, 林星.
+\newblock 检验多视角采集系统的同步性的方法和装置.
+\newblock 中国, 2011, CN102082957B
+\thudot
+
+\bibitem{赵莉1992高速摄影机数据记录系统研究}
+赵莉, 查冠华, 田洁.
+\newblock 高速摄影机数据记录系统研究.
+\newblock 光子学报, 1992, 21(2):176--180
+\thudot
+
+\bibitem{zhao2009high}
+Zhao Q, Chen Y~Q.
+\newblock High-precision synchronization of video cameras using a single binary
+  light source.
+\newblock Journal of Electronic Imaging, 2009, 18(4):040501--040501
+\thudot
+
 \bibitem{17}
 朱海宽, 万丽雯.
 \newblock 基于 pci 总线多路图像采集卡的研究.
@@ -389,25 +408,6 @@ Schaffner M.
 \newblock Vehicle vision system utilizing camera synchronization, November~1,
   2016.
 \newblock US Patent 9,481,301
-\thudot
-
-\bibitem{戴琼海111}
-戴琼海, 林星.
-\newblock 检验多视角采集系统的同步性的方法和装置.
-\newblock 中国, 2011, CN102082957B
-\thudot
-
-\bibitem{赵莉1992高速摄影机数据记录系统研究}
-赵莉, 查冠华, 田洁.
-\newblock 高速摄影机数据记录系统研究.
-\newblock 光子学报, 1992, 21(2):176--180
-\thudot
-
-\bibitem{zhao2009high}
-Zhao Q, Chen Y~Q.
-\newblock High-precision synchronization of video cameras using a single binary
-  light source.
-\newblock Journal of Electronic Imaging, 2009, 18(4):040501--040501
 \thudot
 
 \bibitem{mehta1996some}

@@ -34,12 +34,12 @@
 \contentsline {section}{\numberline {5.2}多摄像头系统及拍摄时间检测系统硬件配置}{46}{section.5.2}
 \contentsline {section}{\numberline {5.3}LED点阵编码方法比较}{47}{section.5.3}
 \contentsline {section}{\numberline {5.4}摄像头拍摄时间检测}{48}{section.5.4}
-\contentsline {section}{\numberline {5.5}**多摄像头系统时间同步}{50}{section.5.5}
-\contentsline {section}{\numberline {5.6}**本章小结}{50}{section.5.6}
-\contentsline {chapter}{\numberline {第6章}总结与展望}{51}{chapter.6}
-\contentsline {section}{\numberline {6.1}工作总结}{51}{section.6.1}
-\contentsline {section}{\numberline {6.2}未来展望}{52}{section.6.2}
-\contentsline {chapter}{参考文献}{53}{section.6.2}
-\contentsline {chapter}{致\hspace {1em}谢}{57}{chapter*.45}
-\contentsline {chapter}{声\hspace {1em}明}{57}{chapter*.46}
-\contentsline {chapter}{个人简历、在学期间发表的学术论文与研究成果}{59}{chapter*.47}
+\contentsline {section}{\numberline {5.5}多摄像头系统时间同步}{50}{section.5.5}
+\contentsline {section}{\numberline {5.6}本章小结}{50}{section.5.6}
+\contentsline {chapter}{\numberline {第6章}总结与展望}{52}{chapter.6}
+\contentsline {section}{\numberline {6.1}工作总结}{52}{section.6.1}
+\contentsline {section}{\numberline {6.2}未来展望}{53}{section.6.2}
+\contentsline {chapter}{参考文献}{54}{section.6.2}
+\contentsline {chapter}{致\hspace {1em}谢}{58}{chapter*.46}
+\contentsline {chapter}{声\hspace {1em}明}{58}{chapter*.47}
+\contentsline {chapter}{个人简历、在学期间发表的学术论文与研究成果}{60}{chapter*.48}
