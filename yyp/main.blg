@@ -13,13 +13,10 @@ The style file: thuthesis.bst
 A level-1 auxiliary file: data/ack.aux
 A level-1 auxiliary file: data/resume.aux
 Database file #1: ref/refs.bib
-Repeated entry---line 239 of file ref/refs.bib
+Repeated entry---line 247 of file ref/refs.bib
  : @inproceedings{golbeck2006filmtrust
  :                                    ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "http://www.iqiyi.com/common/aboutus.html"
-Warning--I didn't find a database entry for "https://zh.wikipedia.org/wiki/豆瓣"
-Warning--I didn't find a database entry for "https://zh.wikipedia.org/wiki/新浪微博"
 Warning--I didn't find a database entry for ""倾向值匹配与因果推论""
 Warning--I didn't find a database entry for "14"
 Warning--I didn't find a database entry for "http://baike.baidu.com/link?url=VE98zoCZ8paIYRmIAvmZIwv9F_u8nXU-5yLru_SxRWG5i4-sl2h59-eJu6Op6w10-ZsQAyrQpv7mizJS3FOs2YtnNeqklulN0vvuSKM4vS-vGbZunTtAPQirQPfb0Cg7"

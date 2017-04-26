@@ -7,7 +7,7 @@
 \contentsline {section}{\numberline {2.2}多摄像头系统}{9}{section.2.2}
 \contentsline {section}{\numberline {2.3}摄像头拍摄时间检测}{12}{section.2.3}
 \contentsline {section}{\numberline {2.4}多摄像头系统的同步控制}{13}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}硬件同步}{13}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.1}硬件同步}{14}{subsection.2.4.1}
 \contentsline {subsection}{\numberline {2.4.2}软件同步}{15}{subsection.2.4.2}
 \contentsline {section}{\numberline {2.5}本章小结}{17}{section.2.5}
 \contentsline {chapter}{\numberline {第3章}多摄像头系统的拍摄时间检测}{19}{chapter.3}
@@ -20,15 +20,15 @@
 \contentsline {subsection}{\numberline {3.3.4}分组叠加编码}{25}{subsection.3.3.4}
 \contentsline {subsection}{\numberline {3.3.5}进位流水编码}{26}{subsection.3.3.5}
 \contentsline {subsection}{\numberline {3.3.6}编码方法比较}{28}{subsection.3.3.6}
-\contentsline {section}{\numberline {3.4}拍摄时间检测算法}{28}{section.3.4}
-\contentsline {section}{\numberline {3.5}本章小结}{33}{section.3.5}
+\contentsline {section}{\numberline {3.4}拍摄时间检测算法}{29}{section.3.4}
+\contentsline {section}{\numberline {3.5}本章小结}{34}{section.3.5}
 \contentsline {chapter}{\numberline {第4章}多摄像头系统的时间同步}{35}{chapter.4}
 \contentsline {section}{\numberline {4.1}本章引言}{35}{section.4.1}
 \contentsline {section}{\numberline {4.2}同步过程中存在的几个问题}{35}{section.4.2}
 \contentsline {subsection}{\numberline {4.2.1}果冻效应}{35}{subsection.4.2.1}
 \contentsline {subsection}{\numberline {4.2.2}多摄像头视野校准}{38}{subsection.4.2.2}
 \contentsline {section}{\numberline {4.3}系统同步过程}{40}{section.4.3}
-\contentsline {section}{\numberline {4.4}本章小结}{44}{section.4.4}
+\contentsline {section}{\numberline {4.4}本章小结}{45}{section.4.4}
 \contentsline {chapter}{\numberline {第5章}实验与结果分析}{46}{chapter.5}
 \contentsline {section}{\numberline {5.1}本章引言}{46}{section.5.1}
 \contentsline {section}{\numberline {5.2}多摄像头系统及拍摄时间检测系统硬件配置}{46}{section.5.2}
@@ -38,7 +38,7 @@
 \contentsline {section}{\numberline {5.6}本章小结}{50}{section.5.6}
 \contentsline {chapter}{\numberline {第6章}总结与展望}{52}{chapter.6}
 \contentsline {section}{\numberline {6.1}工作总结}{52}{section.6.1}
-\contentsline {section}{\numberline {6.2}未来展望}{53}{section.6.2}
+\contentsline {section}{\numberline {6.2}未来展望}{52}{section.6.2}
 \contentsline {chapter}{参考文献}{54}{section.6.2}
 \contentsline {chapter}{致\hspace {1em}谢}{58}{chapter*.46}
 \contentsline {chapter}{声\hspace {1em}明}{58}{chapter*.47}
