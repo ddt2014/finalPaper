@@ -3,9 +3,9 @@ A level-1 auxiliary file: data/chap01.aux
 A level-1 auxiliary file: data/chap02.aux
 A level-1 auxiliary file: data/chap03.aux
 A level-1 auxiliary file: data/chap04.aux
-White space in argument---line 13 of file data/chap04.aux
- : \citation{"an
- :               introduction to propensity"}
+White space in argument---line 21 of file data/chap04.aux
+ : \citation{Normand
+ :                   2001}
 I'm skipping whatever remains of this command
 A level-1 auxiliary file: data/chap05.aux
 A level-1 auxiliary file: data/chap06.aux
@@ -17,9 +17,8 @@ Repeated entry---line 247 of file ref/refs.bib
  : @inproceedings{golbeck2006filmtrust
  :                                    ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for ""倾向值匹配与因果推论""
-Warning--I didn't find a database entry for "14"
-Warning--I didn't find a database entry for "http://baike.baidu.com/link?url=VE98zoCZ8paIYRmIAvmZIwv9F_u8nXU-5yLru_SxRWG5i4-sl2h59-eJu6Op6w10-ZsQAyrQpv7mizJS3FOs2YtnNeqklulN0vvuSKM4vS-vGbZunTtAPQirQPfb0Cg7"
+Warning--I didn't find a database entry for "倾向值匹配与因果推论"
+Warning--I didn't find a database entry for "2011b"
 Warning--there's a publisher but no address in hyder2016zen
 Warning--there's a publisher but no address in tuten2014social
 Warning--there's a publisher but no address in heymann2012social
