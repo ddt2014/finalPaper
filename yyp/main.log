@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.3)  4 MAY 2017 21:49
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.3)  5 MAY 2017 15:18
 entering extended mode
 **./main.tex
 (main.tex
@@ -1901,8 +1901,11 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks52
 \@floatcapt=\box68
 )) (main.aux
-(data/chap01.aux) (data/chap02.aux) (data/chap03.aux) (data/chap04.aux)
-(data/chap05.aux) (data/chap06.aux) (data/ack.aux) (data/resume.aux))
+(data/chap01.aux) (data/chap02.aux) (data/chap03.aux) (data/chap04.aux
+
+LaTeX Warning: Label `rel' multiply defined.
+
+) (data/chap05.aux) (data/chap06.aux) (data/ack.aux) (data/resume.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 22.
@@ -2668,7 +2671,8 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
 
  (data/chap04.tex
 第4章
-
+File: figures/rel.png Graphic file (type QTm)
+<use  "figures/rel.png" >
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2685,14 +2689,8 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
 ]
 
 Package natbib Warning: Citation `倾向值匹配与因果推论' on page 31 undefined on input lin
-e 27.
+e 24.
 
-Missing character: There is no ， in font txr!
-Missing character: There is no ， in font txr!
-Missing character: There is no ， in font txr!
-Missing character: There is no ， in font txr!
-Missing character: There is no ， in font txr!
-Missing character: There is no ， in font txr!
 
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
@@ -2704,18 +2702,6 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
 
 [31]
-Missing character: There is no ， in font txr!
-Missing character: There is no ， in font txr!
-Missing character: There is no ， in font txr!
-Missing character: There is no … in font txr!
-Missing character: There is no … in font txr!
-Missing character: There is no ， in font txr!
-
-
-Package natbib Warning: Citation `2011b' on page 32 undefined on input line 54.
-
-
-
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2726,6 +2712,11 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
 
 [32]
+
+Package natbib Warning: Citation `2011b' on page 33 undefined on input line 64.
+
+
+
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2738,9 +2729,19 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
 [33]
 
 Package natbib Warning: Citation `Normand 2001' on page 34 undefined on input l
-ine 77.
+ine 97.
 
-)
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[34])
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2750,7 +2751,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[34]
+[35]
 \openout2 = `data/chap05.aux'.
 
  (data/chap05.tex
@@ -2765,21 +2766,11 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[35
+[36
 
 
 
 ]
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-[36]
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2800,8 +2791,6 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
 
 [38]
-File: figures/2.png Graphic file (type QTm)
- <use  "figures/2.png" >
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2812,6 +2801,8 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
 
 [39]
+File: figures/2.png Graphic file (type QTm)
+ <use  "figures/2.png" >
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2842,6 +2833,16 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
 
 [42]
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[43]
 File: figures/7.png Graphic file (type QTm)
  <use  "figures/7.png" >
 File: figures/8.png Graphic file (type QTm)
@@ -2859,17 +2860,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[43])
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-
-Overfull \hbox (2.0075pt too wide) has occurred while \output is active
- []
- []
-
-[44]
+[44])
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2880,6 +2871,16 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
 
 [45]
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+
+Overfull \hbox (2.0075pt too wide) has occurred while \output is active
+ []
+ []
+
+[46]
 \openout2 = `data/chap06.aux'.
 
  (data/chap06.tex
@@ -2894,7 +2895,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[46
+[47
 
 
 
@@ -2908,7 +2909,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[47] (main.bbl
+[48] (main.bbl
 Underfull \hbox (badness 7796) in paragraph at lines 50--56
 []\EU1/TimesNewRoman(0)/m/n/10.53937 Facebook.  Facebook reports fourth quarter
  and full year 2016 results[EB/OL].
@@ -2931,7 +2932,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[48
+[49
 
 
 
@@ -2945,7 +2946,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[49]
+[50]
 Underfull \hbox (badness 10000) in paragraph at lines 315--321
 [][] [] [][] [] [][] [] [][] [] [][] [] [][] [] [][] [] [][] [] [][] [] [][] []
  [][] [] [][] [] [][] [] [][] [] [][] [] [][] [] [][] [] [][] [] [][] []
@@ -2969,7 +2970,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[50])
+[51])
 Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
@@ -2979,7 +2980,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[51]
+[52]
 \openout2 = `data/ack.aux'.
 
  (data/ack.tex
@@ -2992,7 +2993,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[52
+[53
 
 
 ])
@@ -3005,7 +3006,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[53
+[54
 
 ]
 \openout2 = `data/resume.aux'.
@@ -3020,7 +3021,7 @@ Overfull \hbox (2.0075pt too wide) has occurred while \output is active
  []
  []
 
-[54
+[55
 
 
 
@@ -3043,15 +3044,18 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 73.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 73.
  ) 
 Here is how much of TeX's memory you used:
- 34457 strings out of 428408
- 653531 string characters out of 3160622
- 657429 words of memory out of 3000000
- 37326 multiletter control sequences out of 15000+200000
+ 34468 strings out of 428408
+ 654208 string characters out of 3160622
+ 654826 words of memory out of 3000000
+ 37336 multiletter control sequences out of 15000+200000
  47949 words of font info for 213 fonts, out of 3000000 for 9000
  1329 hyphenation exceptions out of 8191
- 69i,12n,84p,10439b,906s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 69i,15n,84p,10439b,904s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.pdf (65 pages).
+Output written on main.pdf (66 pages).

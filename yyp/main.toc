@@ -19,32 +19,28 @@
 \contentsline {section}{\numberline {3.4}本章小结}{28}{section.3.4}
 \contentsline {chapter}{\numberline {第4章}倾向值匹配算法}{30}{chapter.4}
 \contentsline {section}{\numberline {4.1}引言}{30}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}混淆变量}{30}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}推广策略}{30}{subsection.4.1.2}
-\contentsline {section}{\numberline {4.2}算法步骤}{30}{section.4.2}
-\contentsline {section}{\numberline {4.3}基于话题演化倾向值匹配}{30}{section.4.3}
-\contentsline {section}{\numberline {4.4}显著性及平衡性检验}{30}{section.4.4}
-\contentsline {section}{\numberline {4.5}本章小结}{30}{section.4.5}
-\contentsline {subsection}{\numberline {4.5.1}反事实与平均干预效果}{31}{subsection.4.5.1}
-\contentsline {chapter}{\numberline {第5章}实验与结果分析}{35}{chapter.5}
-\contentsline {section}{\numberline {5.1}引言}{35}{section.5.1}
-\contentsline {section}{\numberline {5.2}演员社交推广行为的影响力模型}{35}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}实验数据}{35}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}推广策略及混淆变量}{36}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}算法应用}{36}{subsection.5.2.3}
-\contentsline {subsection}{\numberline {5.2.4}结果分析}{37}{subsection.5.2.4}
-\contentsline {section}{\numberline {5.3}基于话题演化的模型改进}{39}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}电视剧话题演化规律}{39}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}实验数据}{40}{subsection.5.3.2}
-\contentsline {subsection}{\numberline {5.3.3}推广策略及混淆变量}{41}{subsection.5.3.3}
-\contentsline {subsection}{\numberline {5.3.4}算法应用}{42}{subsection.5.3.4}
-\contentsline {subsection}{\numberline {5.3.5}结果分析}{42}{subsection.5.3.5}
-\contentsline {subsection}{\numberline {5.3.6}模型显著性及平衡性检验}{43}{subsection.5.3.6}
-\contentsline {section}{\numberline {5.4}本章小结}{44}{section.5.4}
-\contentsline {chapter}{\numberline {第6章}总结与展望}{46}{chapter.6}
-\contentsline {section}{\numberline {6.1}工作总结}{46}{section.6.1}
-\contentsline {section}{\numberline {6.2}未来展望}{47}{section.6.2}
-\contentsline {chapter}{参考文献}{48}{section.6.2}
-\contentsline {chapter}{致\hspace {1em}谢}{52}{chapter*.39}
-\contentsline {chapter}{声\hspace {1em}明}{52}{chapter*.40}
-\contentsline {chapter}{个人简历、在学期间发表的学术论文与研究成果}{54}{chapter*.41}
+\contentsline {section}{\numberline {4.2}反事实与平均干预效果}{31}{section.4.2}
+\contentsline {section}{\numberline {4.3}算法步骤}{32}{section.4.3}
+\contentsline {section}{\numberline {4.4}本章小结}{35}{section.4.4}
+\contentsline {chapter}{\numberline {第5章}实验与结果分析}{36}{chapter.5}
+\contentsline {section}{\numberline {5.1}引言}{36}{section.5.1}
+\contentsline {section}{\numberline {5.2}演员社交推广行为的影响力模型}{36}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}实验数据}{36}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}推广策略及混淆变量}{37}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}算法应用}{37}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}结果分析}{38}{subsection.5.2.4}
+\contentsline {section}{\numberline {5.3}基于话题演化的模型改进}{40}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}电视剧话题演化规律}{40}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}实验数据}{41}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}推广策略及混淆变量}{42}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.4}算法应用}{43}{subsection.5.3.4}
+\contentsline {subsection}{\numberline {5.3.5}结果分析}{43}{subsection.5.3.5}
+\contentsline {subsection}{\numberline {5.3.6}模型显著性及平衡性检验}{44}{subsection.5.3.6}
+\contentsline {section}{\numberline {5.4}本章小结}{45}{section.5.4}
+\contentsline {chapter}{\numberline {第6章}总结与展望}{47}{chapter.6}
+\contentsline {section}{\numberline {6.1}工作总结}{47}{section.6.1}
+\contentsline {section}{\numberline {6.2}未来展望}{48}{section.6.2}
+\contentsline {chapter}{参考文献}{49}{section.6.2}
+\contentsline {chapter}{致\hspace {1em}谢}{53}{chapter*.40}
+\contentsline {chapter}{声\hspace {1em}明}{53}{chapter*.41}
+\contentsline {chapter}{个人简历、在学期间发表的学术论文与研究成果}{55}{chapter*.42}

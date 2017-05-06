@@ -3,7 +3,7 @@ A level-1 auxiliary file: data/chap01.aux
 A level-1 auxiliary file: data/chap02.aux
 A level-1 auxiliary file: data/chap03.aux
 A level-1 auxiliary file: data/chap04.aux
-White space in argument---line 21 of file data/chap04.aux
+White space in argument---line 18 of file data/chap04.aux
  : \citation{Normand
  :                   2001}
 I'm skipping whatever remains of this command
