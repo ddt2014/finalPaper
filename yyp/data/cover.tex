@@ -1,4 +1,4 @@
-\ctitle{多摄像头系统的时间同步}
+\ctitle{电视剧演员社交推广行为的\\影响力评估}
 % 根据自己的情况选，不用这样复杂
 \makeatletter
 \ifthu@bachelor\relax\else
@@ -17,7 +17,7 @@
 \cmajor{计算机科学与技术}
 \cauthor{阎一萍}
 \csupervisor{孙立峰教授}
-\etitle{the Synchronization of Multicamera System}
+\etitle{Influence Evaluation of TV Actors’ Promotion Behavior on Social Media}
 \edegree{Master of Engineering}
 \emajor{Computer Science and Technology}
 \eauthor{Yan Yiping}
@@ -28,29 +28,32 @@
 % 定义中英文摘要和关键字
 \begin{cabstract}
 
+随着互联网技术的不断发展，社交媒体已经不仅仅为日常交流沟通而服务，逐渐成为了重要的推广和营销平台。社交媒体凭借其传播范围广、扩散速度快、受众数量大、推广形式多等特点，吸引越来越多的用户利用其开展宣传和推广。对于电视剧来说，因其播放周期长、娱乐性、互动性强的特点，利用社交媒体进行的推广更是得到了广泛的应用，已有众多成功的案例。在微博上，几乎所有电视剧主创人员都会发布大量的推广微博为影视剧进行宣传。
+
+但是，对于社交网络上的宣传推广来说，不同的演员采取不同的推广策略，对不同的电视剧进行推广，最终能够获得的推广效果不尽相同。如何从众多的推广策略当中选取最优策略，实现推广效果的最大化，是一个需要解决的问题。因此，本文以电视剧演员发布的推广微博为研究对象，利用倾向值匹配算法分析不同推广策略与推广效果之间的因果关系，排除电视剧和演员自身特性对推广效果的影响，选择最优策略。
+
+本文使用的实验数据，主要来自于爱奇艺、微博和豆瓣这三个当前国内较为流行的社交媒体网站。从中获得与电视剧和演员相关的所有基本信息和社交行为信息，并对这些数据进行了整理和分析，提出了基于粉丝参与度的微博影响力指数，来衡量推广效果；测量电视剧微博话题热度与微博影响力之间的相关性；总结归纳出不同的推广模式和推广策略及其特点，并发现了一些演员的推广规律等等。
+
+然后将倾向值匹配算法应用在数据集上，对演员在微博上的推广行为进行建模，计算各个推广策略的平均干预效果，分析推广策略与推广效果之间的因果关系，从而识别出电视剧推广最有效的策略。同时还提出了基于话题演化规律的改进模型，将所有微博根据话题发展的不同阶段分段进行分析，并引入了更多的混淆变量以排除这些因素对因果分析的影响，提高分析结果的准确性。最后，还对模型进行了显著性检验和平衡性检验，验证了该模型的适用性和准确性。
 
 \end{cabstract}
 
-\ckeywords{阵}
+\ckeywords{社交推广；电视剧；演员；微博影响力；倾向值匹配算法}
 
 \begin{eabstract}
 
-With the development of camera technology, in order to achieve higher performance and more functions, multi-camera system has become an important research direction. There are more and more researches on the multi-camera system. In order to meet the needs of the system application, the system must achieve the shooting time synchronization, to accurately control cameras to shoot at a certain moment.
+Over the last several years, social media has served not only as daily communication application but also as an important promotion platform. More and more users are attracted to use it for promotion because of its fast diffusion speed, large number of audience and varieties of promotion ways. There are many successful promotion cases for TV series by making good use of social media. Almost all the TV series producers popularize their TV series in social media and almost every TV series has its official account, which is used to release plots, video clips and actors’ interesting snapshots to attract more viewers and increase hits. At the same time, actors also leverage their enormous impact to appeal their fans to help promote and encourage the growth of audience base. In general, Weibo has become an indispensable promotion channel for TV series with official accounts and actors posting various promotion microblogs on it.
 
-In order to realize the time synchronization of multi-camera system, this paper proposes a high precision method to detect the synchronization accuracy by using a FPGA based LED matrix as a detector. The method is divided into two parts: camera shooting time detection and multi-camera system time synchronization control.
+However, different promotion strategies will produce different amount of participations. It's crucial to provide reliable measurements of promotion effectiveness for actors, which can guide them to select better promotion strategies when they post microblogs. Moreover, propensity score matching method is applied to evaluate the promotion effectiveness. 
 
-This paper use a detection system composed by FPGA and LED dot matrix to detect the camera shooting time. The LED lights in the LED matrix continue to change forming a state sequence. Depending on the encoding method, it is possible to determine the position of each matrix state in the sequence. When shooting the LED dot matrix using the camera, the position of the state in the state sequence can be determined, and the shooting time of the camera can be detected. For different encoding methods, different detection accuracy can be obtained, the camera also has different performance and parameter requirements. In this paper, five encoding methods are designed, and the results are compared according to experiments. With this method, the detection system needs no data communication with the camera, so the camera does not have to equip special hardware interface. This method can be applied to most of the camera. At the same time, the method can be applied during the normal working process of the camera, without pausing or adjusting the camera.
+The data comes from Iqiyi, Douban, and Weibo, which are three popular social media websites in China. All the information about TV series and actors are crawled from them. After that, we do some measurements on them. For example, influence indexes are proposed to measure the influence of microblogs, and relevance of topic hotness of TV series and the influence of microblogs are measured, and so on. 
 
-After the camera's shooting time is detected, the multi-camera system can be adjusted synchronously. First of all, the server identifies images of the LED dot matrices captured by cameras. So the server can get cameras' shooting time and calculate the time intervals between the various cameras. According the reference camera, the server then can change the cameras' shooting time by pausing cameras or adjusting the frame rate. So that the cameras in the system can shoot at the same time. And this method can continuously improve the synchronization accuracy by multiple iterative verification. This synchronization method can achieve a high synchronization accuracy for the use of the shooting time detection method. At the same time, the cameras' computing performance requirements are lower and the method flexibility is higher.
+Moreover, according to the evolution of the TV series’ topic, actors’ promotion behavior is split into two periods by the premiere time. Then a propensity score matching method is applied to these data to identify effective promotion strategies at two promotion periods. In experiments, the proposed model is shown to be significant by t-test evaluation and the model is demonstrated to be adequately specified by balance diagnostics. With this application of microblog data, the causal effects between promotion strategies and promotion results can be assessed, and appropriate promotion strategies can be chosen to achieve maximum publicity.
 
-This paper also builds a scalable multi-camera system, using the Raspberry to to control the camera and the image processing server to control the system. With this system, the above detection and synchronization method has been verified.
 
 \end{eabstract}
 
-\ekeywords{multicamera system, synchronization, shooting time detection, LED matrix}
-
-
-
+\ekeywords{Social promotion; TV series; Actor; Influence; Propensity score matching method}
 
 
 

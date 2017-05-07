@@ -3,10 +3,6 @@ A level-1 auxiliary file: data/chap01.aux
 A level-1 auxiliary file: data/chap02.aux
 A level-1 auxiliary file: data/chap03.aux
 A level-1 auxiliary file: data/chap04.aux
-White space in argument---line 18 of file data/chap04.aux
- : \citation{Normand
- :                   2001}
-I'm skipping whatever remains of this command
 A level-1 auxiliary file: data/chap05.aux
 A level-1 auxiliary file: data/chap06.aux
 The style file: thuthesis.bst
@@ -17,16 +13,10 @@ Repeated entry---line 247 of file ref/refs.bib
  : @inproceedings{golbeck2006filmtrust
  :                                    ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "倾向值匹配与因果推论"
-Warning--I didn't find a database entry for "2011b"
 Warning--there's a publisher but no address in hyder2016zen
-Warning--there's a publisher but no address in tuten2014social
-Warning--there's a publisher but no address in heymann2012social
-Warning--there's a school but no address in 张琦2011新媒介环境下的中国电影营销策略研究
-Warning--there's a number but no volume in 于瑞华2012基于
-Warning--can't use both volume and number fields in golbeck2006filmtrust
 Warning--there's a number but no volume in 熊莉2012失恋
 Warning--there's a school but no address in 王伟2015基于微博数据的电影票房预测研究
+Warning--can't use both volume and number fields in golbeck2006filmtrust
 Warning--there's a publisher but no address in bauer1997method
 Warning--there's a number but no volume in 陈林2012中国地区性行政垄断与区域经济绩效
 Warning--empty journal in 方颖2011寻找制度的工具变量
@@ -38,4 +28,4 @@ Warning--empty journal in 席鹏辉2015空气污染对地方环保投入的影�
 Warning--there's a number but no volume in 庞皓1999格兰杰因果检验的有效性及其应用
 Warning--there's a number but no volume in 周振2014户籍歧视与城乡劳动力工资差异
 Warning--there's a number but no volume in 张紫薇2016大学本土留学教育个人收益的计量分析
-(There were 2 error messages)
+(There was 1 error message)

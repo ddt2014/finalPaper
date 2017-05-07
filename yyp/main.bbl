@@ -15,37 +15,6 @@ Hyder S.
 \newblock BenBella Books, Inc., 2016
 \thudot
 
-\bibitem{tuten2014social}
-Tuten T~L, Solomon M~R.
-\newblock Social media marketing.
-\newblock Sage, 2014
-\thudot
-
-\bibitem{saravanakumar2012social}
-Saravanakumar M, SuganthaLakshmi T.
-\newblock Social media marketing.
-\newblock Life Science Journal, 2012, 9(4):4444--4451
-\thudot
-
-\bibitem{heymann2012social}
-Heymann-Reder D.
-\newblock Social Media Marketing.
-\newblock Addison-Wesley Verlag, 2012
-\thudot
-
-\bibitem{zavivsic2011social}
-Zavi{\v{s}}i{\'c} S, Zavi{\v{s}}i{\'c} {\v{Z}}.
-\newblock Social network marketing.
-\newblock  CROMAR kongres (22; 2011), 2011
-\thudot
-
-\bibitem{bolotaeva2010marketing}
-Bolotaeva V, Cata T.
-\newblock Marketing opportunities with social networks.
-\newblock Journal of Internet Social Networking and Virtual Communities, 2010,
-  2010:1--8
-\thudot
-
 \bibitem{Facebook}
 {Facebook}.
 \newblock Facebook reports fourth quarter and full year 2016 results[EB/OL].
@@ -59,35 +28,6 @@ Bolotaeva V, Cata T.
 \newblock 微博2016年q4季报解读[EB/OL].
 \newblock [2017-04-23].
 \newblock  {\url{http://weibo.com/ttarticle/p/show?id=2309614081122958030309}}
-\thudot
-
-\bibitem{张琦2011新媒介环境下的中国电影营销策略研究}
-张琦.
-\newblock 新媒介环境下的中国电影营销策略研究[D].
-\newblock 福州: 福建师范大学, 2011
-\thudot
-
-\bibitem{于瑞华2012基于}
-于瑞华.
-\newblock 基于 web2. 0 的电影营销策略研究.
-\newblock 电影文学, 2012, (15):18--19
-\thudot
-
-\bibitem{ono2007context}
-Ono C, Kurokawa M, Motomura Y, et~al.
-\newblock A context-aware movie preference model using a bayesian network for
-  recommendation and promotion.
-\newblock  International Conference on User Modeling. Springer, 2007.
-\newblock  247--257
-\thudot
-
-\bibitem{golbeck2006filmtrust}
-Golbeck J, Hendler J, et~al.
-\newblock Filmtrust: Movie recommendations using trust in web-based social
-  networks.
-\newblock  Proceedings of the IEEE Consumer communications and networking
-  conference, volume~96. Citeseer, 2006.
-\newblock  282--286
 \thudot
 
 \bibitem{熊莉2012失恋}
@@ -159,6 +99,15 @@ Sawhney M~S, Eliashberg J.
 \newblock A parsimonious model for forecasting gross box-office revenues of
   motion pictures.
 \newblock Marketing Science, 1996, 15(2):113--131
+\thudot
+
+\bibitem{golbeck2006filmtrust}
+Golbeck J, Hendler J, et~al.
+\newblock Filmtrust: Movie recommendations using trust in web-based social
+  networks.
+\newblock  Proceedings of the IEEE Consumer communications and networking
+  conference, volume~96. Citeseer, 2006.
+\newblock  282--286
 \thudot
 
 \bibitem{bogers2010movie}
@@ -416,6 +365,21 @@ Seeger J~D, Williams P~L, Walker A~M.
 Reshef D~N, Reshef Y~A, Finucane H~K, et~al.
 \newblock Detecting novel associations in large data sets.
 \newblock science, 2011, 334(6062):1518--1524
+\thudot
+
+\bibitem{austin2011optimal}
+Austin P~C.
+\newblock Optimal caliper widths for propensity-score matching when estimating
+  differences in means and differences in proportions in observational studies.
+\newblock Pharmaceutical statistics, 2011, 10(2):150--161
+\thudot
+
+\bibitem{normand2001validating}
+Normand S~L~T, Landrum M~B, Guadagnoli E, et~al.
+\newblock Validating recommendations for coronary angiography following acute
+  myocardial infarction in the elderly: a matched analysis using propensity
+  scores.
+\newblock Journal of clinical epidemiology, 2001, 54(4):387--398
 \thudot
 
 \bibitem{赵龙文2013基于意见领袖参与行为的微博话题热度预测研究}
