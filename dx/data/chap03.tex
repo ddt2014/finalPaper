@@ -205,12 +205,12 @@ T = \sum_{j=i}^k p_j * t_j
   \caption{编码方法比较结果} 
   \label{comp}
   \begin{tabular}{c|c|c|c|c}\hline
-  编码方法 & 总循环周期 & 检测精度 & \tabincell{c}{叠加状态\\可识别性}  & \tabincell{c}{摄像头\\参数要求} \\ \hline
-  流水编码 & $n * t_{dur}$ & $t_{dur}$ & 是 & 无\\ \hline
-  二进制编码 & $2^n * t_{dur}$ & $t_{dur}$ & 否 & 无 \\ \hline
-  格雷码编码 & $2^n * t_{dur}$ & $t_{dur}$ & 否 & 有 \\ \hline
-  分组叠加编码 & $k * 2 ^ n * t_{dur}$ & $t_{exp} / k$ & 是 & 有 \\ \hline
-  进位流水编码 & $2^n * t_{dur}$ & $t_i$ & 是 & 无 \\ \hline
+  编码方法 & 总循环周期 & 检测精度 & \tabincell{c}{叠加状态\\可识别性}  & \tabincell{c}{特殊参数设定} \\ \hline
+  流水编码 & $n * t_{dur}$ & $t_{dur}$ & 良好 & 无\\ \hline
+  二进制编码 & $2^n * t_{dur}$ & $t_{dur}$ & 较差 & 无 \\ \hline
+  格雷码编码 & $2^n * t_{dur}$ & $t_{dur}$ & 较差 & 有 \\ \hline
+  分组叠加编码 & $k * 2 ^ n * t_{dur}$ & $t_{exp} / k$ & 易识别 & 有 \\ \hline
+  进位流水编码 & $t_{dur} * \prod_{j=1}^{k} n_j$ & $t_i$ & 易识别 & 无 \\ \hline
   \end{tabular}
 \end{table}
 

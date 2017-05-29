@@ -18,7 +18,7 @@
 \cauthor{阎一萍}
 \csupervisor{孙立峰教授}
 \etitle{Influence Evaluation of Actors’ Promotion Behavior on Social Media}
-\edegree{Master of Engineering}
+\edegree{Master of Science}
 \emajor{Computer Science and Technology}
 \eauthor{Yan Yiping}
 \esupervisor{Professor Sun LiFeng}
@@ -30,17 +30,17 @@
 
 随着互联网技术的不断发展，社交媒体已经不仅仅为日常交流沟通而服务，逐渐成为了重要的推广和营销平台。社交媒体凭借其传播范围广、扩散速度快、受众数量大、推广形式多等特点，吸引越来越多的用户利用其开展宣传和推广。对于电视剧来说，因其播放周期长、娱乐性、互动性强的特点，利用社交媒体进行的推广更是得到了广泛的应用，已有众多成功的案例。在微博上，几乎所有电视剧主创人员都会发布大量的推广微博为影视剧进行宣传。
 
-但是，对于社交网络上的宣传推广来说，不同的演员采取不同的推广策略，对不同的电视剧进行推广，最终能够获得的推广效果不尽相同。如何从众多的推广策略当中选取最优策略，实现推广效果的最大化，是一个需要解决的问题。因此，本文以电视剧演员发布的推广微博为研究对象，利用倾向值匹配算法，构建推广策略的微博影响力模型，从而分析出推广策略与推广效果之间的因果关系。
+但是，对于社交网络上的宣传推广来说，不同的演员采取不同的推广策略，对不同的电视剧进行推广，最终能够获得的推广效果不尽相同。如何从众多的推广策略当中选取最优策略，实现推广效果的最优化，是一个重要问题。因此，本文以电视剧演员发布的推广微博为研究对象，利用倾向值匹配算法，构建推广策略的微博影响力模型，从而分析出推广策略与推广效果之间的因果关系。
 
 本文使用的实验数据，主要来自于爱奇艺、微博和豆瓣这三个当前国内较为流行的社交媒体网站。从中获得与电视剧和演员相关的所有基本信息和社交行为信息。首先，对这些数据进行了分析和测量，提出相关评价指数。提出了基于粉丝参与度的微博影响力指数，来衡量推广效果；提出电视剧微博话题热度指数，并测量其与微博影响力之间的相关性；总结归纳出演员对电视剧的推广模式和推广策略及其特点，并发现了一些演员推广过程中的时空行为模式等等。
 
-进而，对演员在微博上对电视剧的推广行为建模及进行因果分析。将倾向值匹配算法应用在数据集上，解决了随机对照实验成本高、操作性低等问题，还解决了可能出现的选择偏倚、混淆变量影响等问题。对各个推广策略与推广效果之间的因果关系一一进行分析，排除混淆变量的影响，分析推广策略与推广效果之间的净效应，识别电视剧推广的有效策略。
+进而，对演员在微博上对电视剧的推广行为建模并进行因果分析。将倾向值匹配算法应用在数据集上，对各个推广策略与推广效果之间的因果关系一一进行分析，排除混淆变量的影响，分析推广策略与推广效果之间的净效应，识别电视剧推广的有效策略。
 
-最后，提出了基于话题时序演化的改进模型。对演员的推广行为进行分段研究，并引入了更多的混淆变量以排除这些因素对因果分析的影响，更精准更合理地识别有效策略。最后，还对模型进行了显著性检验和平衡性检验，验证了该模型的适用性和准确性。
+最后，提出了基于话题时序演化的改进模型。对演员的推广行为进行分段研究，并引入了更多的混淆变量以排除这些因素对因果分析的影响，更精准更合理地识别有效策略。还对模型进行了显著性检验和平衡性检验，验证了该模型的适用性和准确性。
 
 \end{cabstract}
 
-\ckeywords{社交推广；电视剧；演员；微博影响力；倾向值匹配算法}
+\ckeywords{社交推广，电视剧，演员，微博影响力，倾向值匹配算法}
 
 \begin{eabstract}
 
@@ -48,7 +48,7 @@ Over the last several years, social media has served not only as daily communica
 
 However, different promotion strategies will produce different amount of participations. It's crucial to provide reliable measurements of promotion effectiveness for actors, which can guide them to select better promotion strategies when they post microblogs. Moreover, propensity score matching method is applied to evaluate the promotion effectiveness. 
 
-The data comes from Iqiyi, Douban, and Weibo, which are three popular social media websites in China. All the information about TV series and actors are crawled from them. Firstly, we do some measurements on the data and put forward some evaluation indexes. For example, influence index of microblogs and topic hotness index are proposed to measure the influence of microblogs and topic hotness of TV series on Weibo respectively. Actors' promotion mode and promotion strategies for TV series are introduced and analyzed, and so on.
+The data comes from Iqiyi, Douban, and Weibo, which are three most popular social media websites in China. All the information about TV series and actors are crawled from them. Firstly, we do some measurements on the data and put forward some evaluation indexes. For example, influence index of microblogs and topic hotness index are proposed to measure the influence of microblogs and topic hotness of TV series on Weibo respectively. Actors' promotion mode and promotion strategies for TV series are introduced and analyzed, and so on.
 
 Secondly, we model actors' promotion behaviors and conduct causal analysis on that. Propensity score matching method is applied to our data. The average treatment effect is computed for each promotion strategy. In this way, we can analyze the causal relationship between promotion strategies and promotion effects so as to identify the most effective strategy to promote the TV series.
 

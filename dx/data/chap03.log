@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.3)  5 MAY 2017 10:13
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.3)  26 MAY 2017 11:58
 entering extended mode
 **./chap03.tex
 (chap03.tex
@@ -8666,14 +8666,14 @@ Missing character: There is no 性 in font nullfont!
 <inserted text> 
                 {
 l.208 ...bincell{c}{叠加状态\\可识别性}  &
-                                                   \tabincell{c}{摄像头\\...
+                                                   \tabincell{c}{特殊参�...
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
 Try to go on, since this might almost work.
 
 ! Undefined control sequence.
 l.208 ...叠加状态\\可识别性}  & \tabincell
-                                                  {c}{摄像头\\参数要�...
+                                                  {c}{特殊参数设定} \\...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -8681,50 +8681,34 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 Missing character: There is no c in font nullfont!
-Missing character: There is no 摄 in font nullfont!
-Missing character: There is no 像 in font nullfont!
-Missing character: There is no 头 in font nullfont!
-! Missing } inserted.
-<inserted text> 
-                }
-l.208 ...��别性}  & \tabincell{c}{摄像头\\参
-                                                  数要求} \\ \hline
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
+Missing character: There is no 特 in font nullfont!
+Missing character: There is no 殊 in font nullfont!
 Missing character: There is no 参 in font nullfont!
 Missing character: There is no 数 in font nullfont!
-Missing character: There is no 要 in font nullfont!
-Missing character: There is no 求 in font nullfont!
-! Missing { inserted.
-<inserted text> 
-                {
-l.208 ...ell{c}{摄像头\\参数要求} \\ \hline
-                                                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
+Missing character: There is no 设 in font nullfont!
+Missing character: There is no 定 in font nullfont!
 Missing character: There is no 流 in font nullfont!
 Missing character: There is no 水 in font nullfont!
 Missing character: There is no 编 in font nullfont!
 Missing character: There is no 码 in font nullfont!
-Missing character: There is no 是 in font nullfont!
+Missing character: There is no 良 in font nullfont!
+Missing character: There is no 好 in font nullfont!
 Missing character: There is no 无 in font nullfont!
 Missing character: There is no 二 in font nullfont!
 Missing character: There is no 进 in font nullfont!
 Missing character: There is no 制 in font nullfont!
 Missing character: There is no 编 in font nullfont!
 Missing character: There is no 码 in font nullfont!
-Missing character: There is no 否 in font nullfont!
+Missing character: There is no 较 in font nullfont!
+Missing character: There is no 差 in font nullfont!
 Missing character: There is no 无 in font nullfont!
 Missing character: There is no 格 in font nullfont!
 Missing character: There is no 雷 in font nullfont!
 Missing character: There is no 码 in font nullfont!
 Missing character: There is no 编 in font nullfont!
 Missing character: There is no 码 in font nullfont!
-Missing character: There is no 否 in font nullfont!
+Missing character: There is no 较 in font nullfont!
+Missing character: There is no 差 in font nullfont!
 Missing character: There is no 有 in font nullfont!
 Missing character: There is no 分 in font nullfont!
 Missing character: There is no 组 in font nullfont!
@@ -8732,7 +8716,9 @@ Missing character: There is no 叠 in font nullfont!
 Missing character: There is no 加 in font nullfont!
 Missing character: There is no 编 in font nullfont!
 Missing character: There is no 码 in font nullfont!
-Missing character: There is no 是 in font nullfont!
+Missing character: There is no 易 in font nullfont!
+Missing character: There is no 识 in font nullfont!
+Missing character: There is no 别 in font nullfont!
 Missing character: There is no 有 in font nullfont!
 Missing character: There is no 进 in font nullfont!
 Missing character: There is no 位 in font nullfont!
@@ -8740,7 +8726,9 @@ Missing character: There is no 流 in font nullfont!
 Missing character: There is no 水 in font nullfont!
 Missing character: There is no 编 in font nullfont!
 Missing character: There is no 码 in font nullfont!
-Missing character: There is no 是 in font nullfont!
+Missing character: There is no 易 in font nullfont!
+Missing character: There is no 识 in font nullfont!
+Missing character: There is no 别 in font nullfont!
 Missing character: There is no 无 in font nullfont!
 
 ! LaTeX Error: \begin{document} ended by \end{table}.
@@ -8761,7 +8749,7 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 203--216
  []
 
 
-Overfull \hbox (78.86635pt too wide) in paragraph at lines 203--216
+Overfull \hbox (89.12343pt too wide) in paragraph at lines 203--216
 []
  []
 
@@ -12208,6 +12196,311 @@ Overfull \hbox (23.29153pt too wide) in paragraph at lines 368--369
  []
 
 
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1
+! Undefined control sequence.
+<write> \newlabel{codeMe}{{}{\thepage 
+                                      }}
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{codeMe}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{mat}{{}{\thepage 
+                                   }}
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{mat}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{flow1}{{}{\thepage 
+                                     }}
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{flow1}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{flow}{{}{\thepage 
+                                    }}
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{flow}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{flowE}{{1}{\thepage 
+                                      }}
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{flowE}{{1}{}}
+! Undefined control sequence.
+<write> \newlabel{binary}{{}{\thepage 
+                                      }}
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{binary}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{grayT}{{}{\thepage 
+                                     }}
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{grayT}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{gray}{{}{\thepage 
+                                    }}
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{gray}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{over}{{}{\thepage 
+                                    }}
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{over}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{series}{{}{\thepage 
+                                      }}
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{series}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{flowSe}{{}{\thepage 
+                                      }}
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{flowSe}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{composite}{{}{\thepage 
+                                         }}
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{composite}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{4}{{6}{\thepage 
+                                  }}
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{4}{{6}{}}
+! Undefined control sequence.
+<write> \newlabel{5}{{7}{\thepage 
+                                  }}
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{5}{{7}{}}
+! Undefined control sequence.
+<write> \newlabel{T}{{8}{\thepage 
+                                  }}
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{T}{{8}{}}
+! Undefined control sequence.
+<write> \newlabel{comp}{{}{\thepage 
+                                    }}
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{comp}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{detecSe}{{}{\thepage 
+                                       }}
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{detecSe}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{rgb}{{9}{\thepage 
+                                    }}
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{rgb}{{9}{}}
+! Undefined control sequence.
+<write> \newlabel{p1}{{}{\thepage 
+                                  }}
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{p1}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{grayG}{{10}{\thepage 
+                                       }}
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{grayG}{{10}{}}
+! Undefined control sequence.
+<write> \newlabel{gray1}{{}{\thepage 
+                                     }}
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{gray1}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{gray2}{{}{\thepage 
+                                     }}
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{gray2}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{p2}{{}{\thepage 
+                                  }}
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{p2}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{Gaussian}{{11}{\thepage 
+                                          }}
+l.370 根
+         据上一步所检测到的轮廓，可以获得各个LED灯轮廓�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{Gaussian}{{11}{}}
+]
+
 ! LaTeX Error: Missing \begin{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -12516,310 +12809,6 @@ Overfull \hbox (32.33pt too wide) in paragraph at lines 370--371
 \OT1/cmr/m/n/10 7)$$\OML/cmm/m/it/10 i; j$ [] 
  []
 
-
-! LaTeX Error: The font size command \normalsize is not defined:
-               there is probably something wrong with the class file.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.371 
-      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[1
-! Undefined control sequence.
-<write> \newlabel{codeMe}{{}{\thepage 
-                                      }}
-l.371 
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{codeMe}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{mat}{{}{\thepage 
-                                   }}
-l.371 
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{mat}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{flow1}{{}{\thepage 
-                                     }}
-l.371 
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{flow1}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{flow}{{}{\thepage 
-                                    }}
-l.371 
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{flow}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{flowE}{{1}{\thepage 
-                                      }}
-l.371 
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{flowE}{{1}{}}
-! Undefined control sequence.
-<write> \newlabel{binary}{{}{\thepage 
-                                      }}
-l.371 
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{binary}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{grayT}{{}{\thepage 
-                                     }}
-l.371 
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{grayT}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{gray}{{}{\thepage 
-                                    }}
-l.371 
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{gray}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{over}{{}{\thepage 
-                                    }}
-l.371 
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{over}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{series}{{}{\thepage 
-                                      }}
-l.371 
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{series}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{flowSe}{{}{\thepage 
-                                      }}
-l.371 
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{flowSe}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{composite}{{}{\thepage 
-                                         }}
-l.371 
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{composite}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{4}{{6}{\thepage 
-                                  }}
-l.371 
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{4}{{6}{}}
-! Undefined control sequence.
-<write> \newlabel{5}{{7}{\thepage 
-                                  }}
-l.371 
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{5}{{7}{}}
-! Undefined control sequence.
-<write> \newlabel{T}{{8}{\thepage 
-                                  }}
-l.371 
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{T}{{8}{}}
-! Undefined control sequence.
-<write> \newlabel{comp}{{}{\thepage 
-                                    }}
-l.371 
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{comp}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{detecSe}{{}{\thepage 
-                                       }}
-l.371 
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{detecSe}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{rgb}{{9}{\thepage 
-                                    }}
-l.371 
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{rgb}{{9}{}}
-! Undefined control sequence.
-<write> \newlabel{p1}{{}{\thepage 
-                                  }}
-l.371 
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{p1}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{grayG}{{10}{\thepage 
-                                       }}
-l.371 
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{grayG}{{10}{}}
-! Undefined control sequence.
-<write> \newlabel{gray1}{{}{\thepage 
-                                     }}
-l.371 
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{gray1}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{gray2}{{}{\thepage 
-                                     }}
-l.371 
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{gray2}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{p2}{{}{\thepage 
-                                  }}
-l.371 
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{p2}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{Gaussian}{{11}{\thepage 
-                                          }}
-l.371 
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{Gaussian}{{11}{}}
-]
 
 ! LaTeX Error: Environment figure undefined.
 
